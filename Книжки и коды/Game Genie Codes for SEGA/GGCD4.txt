@@ -1,0 +1,64 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+CONTENTS OF THIS FILE
+1.	Bartman Meets Radioactive Man(tm) Game
+2.	GP Rider(tm) Game
+3.	Ms. Pac-Man(tm) Game
+4.	Poker Face Paul's Poker(tm) Game
+5.	Robocop versus the Terminator(tm) Game
+
+Bartman Meets Radioactive Man(tm) Game
+1	004-E5E-3B7	Infinite lives
+2	000-02C-F7A	Infinite energy
+3	011-56C-B3A	Start with mega-energy
+4	00F-93F-3BE	One hit and you're invincible
+5	010-20C-C4A	Don't flash after getting hit
+6	190-20C-C4A	Longer flash after getting hit
+7	C9F-C3D-082	Most enemies can't even touch you
+8	002-36C-19E	Infinite laser bolts on pick-up
+Bartman Meets Radioactive Man is a trademark of Twentieth Century Fox Film Corporation.
+
+GP Rider(tm) Game
+1	215-2CC-4C2 + 022-5EC-E69	0 to max speed instantly
+2	00B-C1C-3BE	Infinite time
+3	AF6-2CE-08F	Always rank first in qualifying race
+GP Rider is a trademark of SEGA.
+
+Ms. Pac-Man(tm) Game
+Codes work for player 1 only
+1	3E1-93A-6EA + 099-94A-E62	Ghosts are faster than normal after 1st level
+2	C92-D1A-C45	After a power pill runs out the ghosts go mad
+3	00C-F29-19E	Infinite lives
+4	014-DF9-E66	Start with 1 life
+5	094-DF9-E66	Start with 9 lives
+Ms. Pac-Man is a trademark of Namco Ltd.
+
+Poker Face Paul's Poker(tm) Game
+1	FF2-EBE-2A2	Bet as much as you want in 5 card stud; ignore counter
+2	995-FDF-6EA	Start with $9,900
+Poker Face Paul's Poker is a trademark of SEGA.
+
+Robocop versus the Terminator(tm) Game
+1	039-09D-E6E	Start on level 3:streets of Detroit
+2	059-09D-E6E	Start on level 5:Delta City under construction
+3	079-09D-E6E	Start on a secret level
+4	014-2FA-6EA	Start with very little energy
+5	00C-61B-A29	Infinite energy
+6	01C-56B-E62	Don't flash after getting hit
+7	59C-56B-E62	Flash longer after getting hit
+8	C9D-FAD-3BF	Invincible after getting hit once
+9	01A-5F8-912	Full energy pots restore a small amount of energy
+10	19A-5F8-912	Full energy pots restore all your energy
+Robocop versus the Terminator is a trademark of Orion Pictures Corporation.

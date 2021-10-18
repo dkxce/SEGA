@@ -1,0 +1,196 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+CONTENTS OF THIS FILE:
+
+1.	Addams Family(tm) Game
+2.	Cliffhanger(tm) Game
+3.	Desert Strike(tm) Game
+4.	James Pond 2(tm) Game
+5.	Last Action Hero(tm) Game
+6.	PGA Tour Golf(tm) Game
+7.	Robocop 3(tm) Game
+8.	Star Wars(tm) Game
+9.	Winter Olympics(tm) Game
+10.	Road Rash(tm) Game
+11.	Strider Returns(tm) Game (Extra codes)
+12.	Streets of Rage 2(tm) Game (Extra code)
+13.	Desert Speedtrap(tm) Game (Extra codes)
+14.	Bram Stoker's Dracula(tm) Game (Extra codes)
+
+Addams Family(tm) Game
+1	3AB-9F9-195	Start with 1/4 energy 1st life
+2	7AB-9F9-195	Start with 1/2 energy 1st life
+3	BBB-9F9-195	Start with 3/4 energy 1st life
+4	01B-AD9-F7E	Start with 2 lives
+5	07B-AD9-F7E	Start with 8 lives
+6	09B-AD9-F7E	Start with 10 lives
+7	006-46F-F7A	Immune to everything
+8	3A4-D1F-2A2	Infinite lives
+
+Cliffhanger(tm) Game
+1	011-98E-E62	Start with 2 life
+2	041-98E-E62	Start with 5 lives
+3	091-98E-E62	Start with 10 lives
+4	012-73E-B39	Infinite lives
+5	011-A3E-A2A	Start with 1 energy bar
+6	051-A3E-A2A	Start with 5 energy bars
+7	018-9AE-B39	One hit kills
+8	011-80E-E66	1 continue
+9	051-80E-E66	5 continues
+10	091-80E-E66	9 continues
+11	C90-C6A-E69	Invincibility
+12	031-85E-E6A	Start on level 2
+13	061-85E-E6A	Start on level 3
+14	081-85E-E6A	Start on level 4
+
+Desert Strike(tm) Game
+1	01E-03E-C4A	Start with 1 hellfire
+2	05E-03E-C4A	Start with 5 hellfires
+3	09E-03E-C4A	Start with 9 hellfires
+4	01E-08E-3BA	Start with 1 hydras
+5	56E-08E-3BA	Start with 56 hydras
+6	99E-0DE-3BA	Start with 99 hydras
+7	01E-0DE-A2E	Start with 178 guns
+8	06E-0DE-A2E	Start with 678 guns
+9	99E-0DE-A2E	Start with 9,978 guns
+10	01E-12E-08B + 01E-1CE-E6E	100 fuel load
+11	55E-12E-08B + 55E-1CE-E6E	5,500 fuel load
+12	99E-12E-1CE + 99E-1CE-E6E	9,900 fuel load
+13	03E-2BE-F72	Start with 300 armor
+14	06E-2BE-F72	Start with 600 armor
+15	99E-2BE-F72	Start with 9900 armor
+16	002-E97-E6E	Infinite fuel
+17	3A9-807-2A2	Infinite armor
+18	005-B07-E6E	Infinite hydras
+19	004-CF7-E6E	Infinite hellfires
+20	006-FC7-E6E	Infinite guns
+Desert Strike is a trademark of Electronic Arts.
+
+James Pond 2(tm) Game
+1	015-C7F-E66	Start 1st game with 1 life
+2	055-C7F-E66	Start 1st game with 5 lives
+3	095-C7F-E66	Start 1st game with 9 lives
+4	01F-3FB-801	Infinite lives
+5	015-CCF-E66	Start 1st life with 1 energy
+6	055-CCF-E66	Start 1st life with 5 energy
+7	095-CCF-E66	Start 1st life with 9 energy
+8	017-36F-E66	Start rest of lives with 1 energy
+9	057-36F-E66	Start rest of lives with 5 energy
+10	097-36F-E66	Start rest of lives with 9 energy
+11	01E-30C-801	Immunity to spikes
+12	FF5-D2F-E6A	Invincibility, and also one touch from you kills baddies
+13	025-94F-F7A	Start with 1 continue
+14	055-94F-F7A	Start with 4 continues
+15	095-94F-F7A	Start with 8 continues
+16	005-D8F-801	Infinite continues
+
+Last Action Hero(tm) Game
+1	031-20F-E6E	Start on scene 3
+2	051-20F-E6E	Start on scene 5
+3	071-20F-E6E	Start on scene 7
+4	011-25F-E66	Start with 1 life
+5	051-25F-E66	Start with 5 lives
+6	091-25F-E66	Start with 9 lives
+7	011-2AF-F76	Start with 1 heart
+8	051-2AF-F76	Start with 5 heart
+9	091-2AF-F76	Start with 9 heart
+10	3A1-F3F-2A2	Infinite lives
+11	AFE-9CF-19E	Collect 1 token to get fire extinguisher
+12	3A1-B1F-2A2	Infinite timer
+
+PGA Tour Golf(tm) Game
+1	3E7-71C-191 + 407-72C-105 + 187-73C-6EA	Strong wind
+2	3E7-71C-191 + 1F7-71C-195 + 187-73C-6EA	Massive wind
+4	017-A2C-4CA	Hit longer shots
+5	FF7-A2C-4CA	Hit even longer shots
+6	006-50D-19A	Infinite shots--always hole in one
+Electronic Arts
+
+Robocop 3(tm) Game
+1	31E-13F-2A6	Start with 1 life
+2	35E-13F-2A6	Start with 5 lives
+3	39E-13F-2A6	Start with 9 lives
+4	3AB-30D-2A2	Infinite lives
+5	3AA-BF6-2A2 + 3AC-156-2A2	Infinite energy
+6	3AD-346-2A2	Pick up power does nothing
+7	000-E05-E6E	Infinite timer
+8	019-86F-E6E	100 bullets on pick-up
+9	099-86F-E6E	Start 1st life with 900 bullets and get 200 on each pick-up
+10	006-64D-A2C	Infinite ammo all guns
+
+Star Wars(tm) Game
+1	00D-92B-3B7 + 3AD-93B-2A2	Infinite energy--all players
+Codes for Leia:
+2	20E-347-A2A	Start with 7 energy points for first life
+3	30E-347-A2A	Start with 9 energy points for first life
+4	40E-347-A2A	Start with 12 energy points for first life
+5	210-D48-91D	Storm troopers are invincible
+6	C90-B2E-5DD	Everything on the screen will disappear apart from you and the obstacles
+7	20F-48A-A2A	Start with 7 energy points after first life
+8	30F-48A-A2A	Start with 9 energy points after first life
+9	40F-48A-A2A	Start with 12 energy points after first life
+Codes for Luke:
+10	05E-237-E62	Start with 6 lives
+11	09E-237-E62	Start with 10 lives
+12	30A-12B-A2A	Start with 16 energy points--1st life
+13	40A-12B-A2A	Start with 22 energy points--1st life
+14	50A-12B-A2A	Start with 27 energy points--1st life
+15	30F-6FA-A2A	Start with 16 energy points after 1st life
+16	40F-6FA-A2A	Start with 22 energy points after 1st life
+17	50F-6FA-A2A	Start with 27 energy points after 1st life
+18	3AF-6BA-2A2	Infinite lives
+Star Wars is a trademark of Lucasfilm Ltd.
+
+Winter Olympics(tm) Game
+1	000-5A9-A29	Start on any skill level
+2	7E0-0BD-3B7 + C91-B2D-91D	Always gain speed on luge and bobsleigh
+3	01E-87D-F7E	1 shot on biathlon
+4	07E-87D-F7E	7 shots on biathlon
+5	09E-87D-F7E	9 shots on biathlon
+6	00A-02E-19A	Infinite time--biathlon
+7	2E8-51E-5DD + E08-52E-A23 + 188-53E-2AA	Full power on speed skating
+
+Road Rash(tm) Game
+00A-C6C-E62	Don't lose speed on grass
+3EA-C3C-08A + FFA-C4C-E62	Always travel at max speed--must press 1 button to start moving
+058-49C-916	Start with very little bike energy
+FF8-49C-916	Start with mega bike energy
+213-054-91D	Infinite bike energy
+001-24A-A2C	Biker information disappears
+00D-B5E-E6E	Infinite time
+3EE-9A5-4CA + 00E-9B5-F7A	Inflict more damage when you punch other bikers
+Road Rash is a trademark of Electronic Arts.
+
+Strider Returns(tm) Game (Extra codes)
+001-49C-19E + 213-BEC-2A2	Loads of bad guys
+C91-4AC-2A2 + 000-71C-195	Only 1 animal enemy in game
+Strider is a trademark of Capcom USA.
+
+Streets of Rage 2(tm) Game (Extra code)
+3E8-83A-91D + 098-84A-193 + 008-85A-E6F	Mega-power attacks
+Streets of Rage 2 is a trademark of SEGA.
+
+Desert Speedtrap(tm) Game (Extra codes)
+C31-A8B-E61				Enemies can't hurt
+035-0FF-E66 + 325-13F-082	Start on level 3
+065-0FF-E66 + 325-13F-082	Start on level 6
+095-0FF-E66 + 325-13F-082	Start on level 9
+0E5-0FF-E66 + 325-13F-082	Start on last level
+Desert Speedtrap is a trademark of SEGA.
+
+Bram Stoker's Dracula(tm) Game (Extra codes)
+3A5-93C-2A2	Invincible (blinking)
+C39-95E-E61	Immunity from water and spikes
+Bram Stoker's Dracula is a trademark of Columbia Pictures Industries, Inc.

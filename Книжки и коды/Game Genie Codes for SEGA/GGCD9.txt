@@ -1,0 +1,36 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+Sonic the Hedgehog: Triple Trouble(tm) Game
+1.	003-E0E-E6E	Infinite lives
+2.	00A-E6E-E66	Start with 1 lives
+3.	04A-E6E-E66	Start with 5 lives
+4.	14A-E6E-E66	Start with 15 lives
+5.	99A-E6E-E66	Start with 100 lives
+6.	00A-AFE-5D4	Start high in the air on Act 1--1st life only
+7.	053-AFC-E6E	Each ring worth 5
+8.	0A3-AFC-E6E	Each ring worth 10
+9.	3A8-E4C-2A2 + 3A8-E7C-2A2	Infinite rings
+10.	3E3-A4E-082 + 023-A5E-F77 + 003-A6E-A2D	Finish the first part of an Act and warp to the next Act
+11.	008-FFC-08B	Very little flash time after getting hit
+12.	998-FFC-08B	Flash longer after getting hit
+13.	3A9-D5C-2A2	Get hit and stay invincible
+14.	C37-F2C-E61	Invincible--spikes still kill hurt you
+15.	00A-EBE-E6E	Start with no continues
+16.	05A-EBE-E6E	Start with 5 continues
+17.	0AA-EBE-E6E	Start with 10 continues
+18.	3A5-60E-2A2	Infinite continues
+19.	00F-88D-3B7	Infinite timer
+Sonic the Hedgehog, and Triple Trouble are trademarks of SEGA
+

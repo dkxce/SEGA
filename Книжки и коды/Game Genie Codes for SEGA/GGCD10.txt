@@ -1,0 +1,75 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+CONTENTS OF THIS FILE
+1.	Dynamite Headdy(tm) Game
+2.	Taz In Escape from Mars(tm) Game
+3.	Mighty Morphin Power Rangers(tm) Game
+4.	Marvel Comics' X-Men: The GamesMaster's Legacy
+
+Dynamite Headdy(tm) Game
+1	014-FAF-E66	Start with 1 lives
+2	054-FAF-E66	Start with 5 lives
+3	094-FAF-E66	Start with 9 lives
+4	008-E2D-E69	Infinite lives
+5	004-56C-D5A	Infinite energy
+6	344-F3F-3BE + 344-EFF-3BE	Start on Toys in the Hood
+Dynamite Headdy and related names are trademarks of Sega.
+
+Taz In Escape from Mars(tm) Game
+1	3AE-916-2A2	Infinite lives
+2	215-545-6E2	Infinite energy
+3	304-7B6-E6A	Start with Bubble Gum Float
+4	C94-7C6-2A2	Keep weapons for a little while after you die
+5	015-735-197	Less flash time after getting hit
+6	995-735-197	More flash time after getting hit
+7	004-E46-3BA + 004-E06-3BE	Always invincible
+Taz in Escape from Mars and related names are trademarks of Warner 
+Bros.
+
+Mighty Morphin Power Rangers(tm) Game
+1	7AE-12B-2A9	All Power Rangers start with 12 energy
+2	AFE-12B-2A9	All Power Rangers start with 34 energy
+3	45E-12B-2A9	All Power Rangers start with 14 energy
+4	212-D5E-91D	Only throws do damage
+5	3A3-AEA-2A2	Don't get any energy from defeating an opponent
+6	3E3-A2A-082 + 003 a4a c49 + ff3 a3a 916	Get max energy from defeating an opponent
+7	25D-D95-F7E	Grey Putty is harder to kill
+8	10E-155-2A9	Goldar is easier to kill
+9	20E-245-C42	Green Putty is harder to kill
+10	3EE-9EB-193 + 02E-9FB-6E6	After defeating some enemies you fight other Power Rangers--May cause slight graphic errors
+11	3E9-E6A-082 + 009-E7A-E6A + 009-E8A-C49	Always fight on the Park stage
+12	3E9-E6A-082 + 019-E7A-E6A + 009-E8A-C49	Always fight on the Mountain stage
+13	3E9-E6A-082 + 029-E7A-E6A + 009-E8A-C49	Always fight on the Alley stage
+14	3E9-E6A-082 + 039-E7A-E6A + 009-E8A-C49	Always fight on the City stage
+15	3E9-E6A-082 + 039-E7A-E6A + 009-E8A-C49	Always fight on the Construction stage
+16	3E9-E6A-082 + 059-E7A-E6A + 009-E8A-C49	Always fight on the Refinery stage
+Mighty Morphin Power Rangers and related names are trademarks of 
+Saban Entertainment, Inc. and Saban International N.V.
+
+Marvel Comics' X-Men: The GamesMaster's Legacy
+1	002-644-195	Start with no mutant power
+2	772-644-195	Start with 1/2 mutant power
+3	3AA-2A7-2A2	Infinite mutant power
+4	14A-267-C42	Mutant power is used quicker
+5	3AA-BD7-2A2	Infinite energy
+6	AFA-BA7-2AA + 00A-BB7-E6E	One hit is fatal~most of the time
+7	012-634-195	Start with very little energy
+8	772-634-195	Start with 1/2 energy
+9	FFA-A97-2A2	Flash a lot longer after getting hit
+10	000-2F7-19E	1 hit and you're invisible
+11	000-2B7-806	Almost invincible
+Marvel, X-Men, and GamesMasters Legacy are trademarks of Marvel 
+Entertainment Group, Inc.
+

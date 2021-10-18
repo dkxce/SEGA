@@ -1,0 +1,360 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+CONTENTS OF THIS FILE:
+1.	Bram Stoker's Dracula(tm) Game
+2.	Desert Speed Trap(tm) Game
+3.	Double Dragon(tm) Game
+4.	Ecco the Dolphin(tm) Game
+5.	The Incredible Crash Dummies(tm) Game
+6.	Jurassic Park(tm) Game
+7.	Mortal Kombat(tm) Game
+8.	Sonic Chaos(tm) Game
+9.	Sonic Chaos(tm) Game
+10.	Spider-Man: Return of the Sinister Six(tm) game
+11.	Streets of Rage 2(tm) Game
+12.	Strider Returns(tm) Game
+13.	Surf Ninjas(tm) Game
+14.	Tengen World Cup Soccer(tm) Game
+15.	World Series Baseball(tm) Game
+16.	WWF Steel Cage Challenge(tm) Game
+
+Bram Stoker's Dracula(tm) Game
+1	002-4FA-E66	Start with 1 life
+2	012-4FA-E66	Start with 2 lives
+3	052-4FA-E66	Start with 6 lives
+4	092-4FA-E66	Start with 10 lives
+5	3A3-C8A-2A2	Infinite lives
+6	012-4AA-F7A	Start with energy at 1--1st life
+7	062-4AA-F7A	Start with energy at 6--1st life
+8	092-4AA-F7A	Start with energy at 9--1st life
+9	013-C0A-F7A	Start with energy at 1--after 1st life
+10	063-C0A-F7A	Start with energy at 6--after 1st life
+11	093-C0A-F7A	Start with energy at 9--after 1st life
+12	3A4-39C-2A2	After pick-up, keep weapons until end of level
+13	001-7BB-19E	Infinite time
+14.	3A5-93C-2A2	Invincible (blinking)
+15.	C39-95E-E61	Immunity from water and spikes
+Bram Stoker's Dracula is a trademark of Columbia Pictures 
+Industries, Inc.
+
+Desert Speed Trap(tm) Game 
+1	212-39B-19D	Infinite hits 
+2	014-74E-E66	2 energy points allowed for 1st life only 
+3	024-74E-E66	3 energy points allowed for 1st life only 
+4	004-74E-E66	1 energy point allowed for 1st life only 
+5	094-74E-E66	10 energy points allowed for 1st life only--MAY MESS UP ENERGY BAR
+6	015-3AF-E62	Start with 2 lives
+7	065-3AF-E62	Start with 6 lives
+8	095-3AF-E62	Start with 9 lives
+9	001-59B-A2A	Infinite timer
+10	015-0FF-E66	Start with 1 credit
+11	055-0FF-E66	Start with 5 credits
+12	075-0FF-E66	Start with 7 credits
+13	095-0FF-E66	Start with 9 credits
+14.	C31-A8B-E61	Enemies can't hurt
+15.	035-0FF-E66 + 325-13F-082	Start on level 3
+16.	065-0FF-E66 + 325-13F-082	Start on level 6
+17.	095-0FF-E66 + 325-13F-082	Start on level 9
+18.	0E5-0FF-E66 + 325-13F-082	Start on last level
+
+Double Dragon(tm) Game
+1	012-19F-E66	Start with 2 lives
+2	052-19F-E66	Start with 6 lives 
+3	092-19F-E66	Start with 10 lives 
+4	012-21F-F76	Start with 1 energy bar for first knockdown only
+5	022-21F-F76	Start with two energy bars for first knockdown only
+6	00F-03F-3BF	Start with lots of energy 
+7	00C-B6F-3BE	Pick up gun and keep till end of level 
+8	013-D9C-DD6	Gun has 1 bullet 
+9	053-D9C-DD6	Gun has 5 bullets 
+10	093-D9C-DD6	Gun has 9 bullets 
+11	017-EAD-E66	2 lives after 1st continue 
+12	057-EAD-E66	6 lives after 1st continue 
+13	097-EAD-E66	10 lives after 1st continue 
+14	007-E5D-3B7	Infinite continues 
+15	014-37F-F76	Start with 1 energy bar after 1st LIFE 
+16	024-37F-F76	Start with 1.5 energy bars after 1st LIFE 
+17	034-37F-F76	Start with 2 energy bars after 1st LIFE 
+18	AFD-0AE-F70	Nasties warp all over the place--very hard to kill 
+
+Ecco the Dolphin(tm) Game 
+1	3E3-4B8-C46 	Infinite air
+2	050-AC8-6E6 	Less air when you jump out of the water
+3	003-4B8-C46 	Air goes down slower
+4	21C-D49-6E2 	Infinite energy
+5	05C-D29-199 	Take less damage
+6	FFC-D29-199		Protection from some hazards
+7	053-EAA-6E6 + 053-E4A-6E6 	Shells replenish less energy and less air
+8	C93-E2A-6EE 	No replenishment of air energy by anything--you can still get air by jumping out of water
+9	217-AD8-6E2 	No extra air when jumping out of the water--use this code with code air goes down slower 
+for a level
+
+The Incredible Crash Dummies(tm) Game 
+1	01C-40F-F7E	Start with 1 life
+2	05C-40F-F7E	Start with 5 lives
+3	09C-40F-F7E	Start with 9 lives
+4	00F-45F-19E	Infinite lives
+5	00B-E1A-E69	Fire has no effect on Crash Dummies
+6	009-7AD-E6E	Infinite time
+The Incredible Crash Dummies is a trademark of Tyco Industries, Inc.
+
+Jurassic Park(tm) Game
+Arcade Stage Codes:
+1	01A-11B-E66	Start with 1 energy point
+2	02A-11B-E66	Start with 2 energy points
+3	05A-11B-E66	Start with 5 energy points
+4	09A-11B-E66	Start with 9 energy points
+5	AF6-E68-19A	One hit by an enemy is fatal
+6	3A6-E78-2A2	Invincibility
+Action Stage Codes:
+7	01E-2EB-E66	Start with 1 life--1st game only
+8	02E-2EB-E66	Start with 2 lives--1st game only
+9	05E-2EB-E66	Start with 5 lives--1st game only
+10	09E-2EB-E66	Start with 9 lives--1st game only
+Pteranodon Level Codes:
+11	012-509-E62	Hit enemies 1x and they run away
+12	052-509-E62	Hit enemies 5x and they run away
+13	092-509-E62	Hit enemies 9x and they run away
+14	05E-679-E66	Start with 5 lives on continue
+15	01E-679-E66	Start with 1 life on continue
+16	09E-679-E66	Start with 9 lives on continue
+17	C98-26D-19D	Invincibility--action stage only
+18	01E-2EB-E66 + 01E-11B-E66	Start first game with 1 life and 1 continue
+19	05E-2EB-E66 + 05E-11B-E66	Start first game with 5 lives and 5 continues
+20	09E-2EB-E66 + 09E-11B-E66	Start first game with 9 lives and 9 continues
+21	3AC-B49-2A2	Infinite lives
+22	00E-739-E69	Infinite continues
+23	AF8-22D-A20	1 touch by an enemy is fatal
+Jurassic Park is a trademark of Universal City Studios, Inc. & Amblin 
+Entertainment, Inc.
+
+Mortal Kombat(tm) Game
+1	063-7B4-C4E	Each round is 69 seconds
+2	023-7B4-C4E	Each round is 29 seconds
+3	00B-40C-3BE	Infinite time
+4	004-2D6-19E	Infinite credits
+5	DEB-9F6-5D3	Blood
+6	003-48B-F79	Player 1 is invincible
+7	240-BFD-C4B	Player 1 starts with 1/2 health
+8	240-C5D-C4B	Player 2 usually starts with 1/2 health
+9	20B-06F-F7A	Punches do more damage
+10	2CB-26F-C42	Most kicks do more damage
+11	30B-86F-C42	Foot sweeps do more damage
+12	30B-2EF-D5A	Flying punches do more damage
+13	33B-56F-A2E	Uppercuts do more damage
+14	2AF-237-D5A	Throws do more damage
+15	2BB-76F-F7A	Sonya Blade's leg grab does more damage
+16	2BB-66F-F7A	Scorpion's harpoon does more damage
+17	2BB-6EF-F7A	Rayden's flying thunderbolt does more damage
+18	2BB-4EF-D56	Johhny Cage's shadow kick does more damage
+19	37B-36F-D52	Some other special moves do more damage
+20	01B-C9A-E6A	Start on match 2
+21	02B-C9A-E6A	Start on match 3
+22	03B-C9A-E6A	Start on match 4
+23	04B-C9A-E6A	Start on match 5
+24	05B-C9A-E6A	Start on mirror match 
+25	06B-C9A-E6A	Start on endurance match 1
+26	07B-C9A-E6A	Start on endurance match 2
+27	08B-C9A-E6A	Start on endurance match 3
+28	09B-C9A-E6A	Start on match against Goro
+29	0AB-C9A-E6A	Start on match against Shang Tsung
+30	02B-E1A-F76	Start with 1 credit
+31	06B-E1A-F76	Start with 5 credits
+32	0BB-E1A-F76	Start with 10 credits
+Mortal Kombat and related names are trademarks of Midway 
+Manufacturing Company.
+
+Sonic Chaos(tm) Game
+1	008-3BD-E6E	Infinite time
+2	022-1EC-E6E	Each ring worth 2
+3	042-1EC-E6E	Each ring worth 4
+4	062-1EC-E6E	Each ring worth 6
+5	082-1EC-E6E	Each ring worth 8
+6	0A2-1EC-E6E	Each ring worth 10
+7	3A9-DCB-2A2	Never lose rings
+8	22A-91D-2A2	Start with some rings most of the time
+9	016-93C-E66	Sonic starts with 1 life
+10	096-93C-E66	Sonic starts with 9 lives
+11	506-93C-E66	Sonic starts with 50 lives
+12	996-93C-E66	Sonic starts with 99 lives
+13	014-23E-E66	Sonic continues with 1 life
+14	094-23E-E66	Sonic continues with 9 lives
+15	504-23E-E66	Sonic continues with 50 lives
+16	994-23E-E66	Sonic continues with 99 lives
+17	016-99C-F7E	Tails starts with 1 life
+18	096-99C-F7E	Tails starts with 9 lives
+19	506-99C-F7E	Tails starts with 50 lives
+20	996-99C-F7E	Tails starts with 99 lives
+21	014-28E-F7E	Tails continues with 1 life
+22	094-28E-F7E	Tails continues with 9 lives
+23	504-28E-F7E	Tails continues with 50 lives
+24	994-28E-F7E	Tails continues with 99 lives
+25	3A6-24E-2A2	Infinite lives
+DONT COMBINE ANY OF CODES 26 THRU 35 WITH ANY OF 9 THRU 25
+26	1F6-9EC-08F + 996-A0C-F7D	Sonic starts on Gigapolis Zone
+27	3D6-9EC-08F + 996-A0C-F7D	Sonic starts on Sleeping Egg Zone
+28	006-9EC-08F + 996-A0C-F7D	Sonic starts on Mecha Green Hill Zone
+29	3C6-9EC-08F + 996-A0C-F7D	Sonic starts on Aqua Planet Zone
+30	056-93C-E66 + 006-9EC-08F + 996-A0C-F7D	Sonic starts on Electric Egg Zone with 5 lives
+31	016-99C-F7E + 1F6-9EC-08F + 996-A0C-F7D	Tails starts on Gigapolis Zone with 1 life
+32	1F6-9EC-08F + 996-A0C-F7D	Tails starts on Sleeping Egg Zone
+33	036-99C-F7E + 006-9EC-08F + 996-A0C-F7D	Tails starts on Mecha Green Hill Zone with 3 lives
+34	3D6-9EC-08F + 996-A0C-F7D	Tails starts on Aqua Planet Zone
+35	006-9EC-08F + 996-A0C-F7D	Tails starts on Electric Egg Zone
+Sonic Chaos and related names are trademarks of SEGA.
+
+Sonic Chaos(tm) Game
+1	092-1EC-E6E	Collect 1 ring and you get 9 
+2	032-1EC-E6E	Collect 1 ring and you get 3 
+3	FF2-1EC-E6E	Collect 1 ring and you get 65
+4	3A9-DAB-2A2	No loss of rings on collision
+5	016-93C-E66	Start with 1 life 
+6	056-93C-E66	Start with 5 lives 
+7	096-93C-E66	Start with 9 lives 
+8	3A6-24E-2A2	Infinite lives
+9	008-41D-3B7	No clock timer
+10	3C8-33F-5D4	Start on level 2-2
+11	3AA-A3B-2A2	One hit and you are invincible (you must have a ring when you get hit)
+12	208-4BB-F72	Hold right on the joypad and Sonic will finish the level by himself. Switch ff the code when you reach level 3
+
+Spider-Man: Return of the Sinister Six(tm) game
+1	003-39F-5D4	Begin with web fluid
+2	013-35F-C4A	Start with less energy
+3	0A3-35F-C4A	Start with more energy
+4	0F3-35F-C4A	Start with a lot more energy
+5	FF3-2FF-E6E	Gives you 2,540 points
+6	063-1DF-E66	Start with 5 continues
+7	093-1DF-E66	Start with 8 continues
+8	3A4-0DD-2A2	Infinite energy
+Spider-Man: Return of the Sinister Six is a trademark of Marvel 
+Entertainment Group, Inc.
+
+Streets of Rage 2(tm) Game
+1	012-BEF-E66	Start with only 1 life
+2	062-BEF-E66	Start with 6 lives
+3	092-BEF-E66	Start with 9 lives
+4	218-15C-91D	Infinite lives
+5	0BE-F79-B36	Start 1st life with only 1/2 energy
+6	3CE-F79-B36	Start 1st life with 2x energy
+7	21A-FBC-91D	Infinite energy
+8	00A-05B-E6E	Infinite time
+9	012-C3F-E6E + 832-C5F-F74	Start on stage 2
+10	022-C3F-E6E + 832-C5F-F74	Start on stage 3
+11	032-C3F-E6E + 832-C5F-F74	Start on stage 4
+12	042-C3F-E6E + 832-C5F-F74	Start on stage 5
+13	052-C3F-E6E + 832-C5F-F74	Start on stage 6
+14.	3E8-83A-91D + 098-84A-193 + 008-85A-E6F	Mega-power attacks
+Streets of Rage 2 is a trademark of SEGA.
+
+Strider Returns(tm) Game
+1	00E-4AA-19E	Infinite time
+2	3AB-A2F-2A2	Infinite lives
+3	015-F8F-F7E	Start with 2 lives
+4	035-F8F-F7E	Start with 4 lives
+5	075-F8F-F7E	Start with 8 lives
+6	095-F8F-F7E	Start with 10 lives
+7	3A6-73A-2A2	Infinite energy
+8	007-3BF-6EB	Start with energy at 1
+9	107-3BF-6EB	Start with energy at 3
+10	207-3BF-6EB Start with energy at 6
+11	907-3BF-6EB Start with energy at 19
+12	AF6-72A-A24 Invincibility
+13	015-F3F-E6A Start on level 2
+14	025-F3F-E6A Start on level 3
+15	035-F3F-E6A Start on level 4
+16	045-F3F-E6A Start on level 5
+17.	001-49C-19E + 213-BEC-2A2	Loads of bad guys
+18.	C91-4AC-2A2 + 000-71C-195	Only 1 animal enemy in game
+Strider Returns is a trademark of Capcom U.S.A.
+
+Surf Ninjas(tm) Game
+1	015-36F-E66	Start with only 1 life 
+2	065-36F-E66	Start with 6 lives 
+3	095-36F-E66	Start with 9 lives 
+4	3AE-28F-2A2	Infinite lives 
+5	00F-47A-E6E	Infinite Zatches
+6	010-AEF-E6A	Start on level 2: Docks of Venice, CA 
+7	020-AEF-E6A	Start on level 3: Island of Patu San 
+8	040-AEF-E6A	Start on level 4: jungle of Patu San 
+9	050-AEF-E6A	Start at the cave of the ancients 
+CODES 10 AND 11 ARE FOR PRACTICE ONLY. YOU CANNOT COMPLETE 
+THE GAME WITHOUT COLLECTING THE KWANTZU IN THE CAVE OF THE 
+ANCIENTS
+10	060-AEF-E6A	Start on level 5: Colonel Chi's prison camp 
+11	070-AEF-E6A	Start on level 6: Colonel Chi's Fortress 
+12	005-49F-E62	Start with no Zatches
+13	015-49F-E62	Start with only 1 Zatch 
+14	105-49F-E62	Start with 10 Zatches 
+15	505-49F-E62	Start with 50 Zatches 
+16	005-4AF-E66	Start with no hints 
+17	015-4AF-E66	Start with only one hint 
+18	105-4AF-E66	Start with 10 hints 
+19	505-4AF-E66	Start with 50 hints 
+20	005-4BF-B3E	Start with no weapons 
+21	055-4BF-B3E	Start with 5 of each weapon 
+22	305-4BF-B3E	Start with 30 of each weapon 
+23	505-4BF-B3E	Start with 50 of each weapon 
+24	005-4CF-2AA	Start with no gold 
+25	155-4CF-2AA	Start with only 15 gold coins 
+26	605-4CF-2AA	Start with 60 gold coins 
+27	995-4CF-2AA	Start with 99 gold coins 
+28	C9A-ABA-19E	Infinite hints
+29	000-72E-E6E	Infinite weapons
+30	3A2-9A9-2A2	Infinite gold
+Surf Ninjas and related names are trademarks of New Line 
+Productions, Inc.
+
+Tengen World Cup Soccer(tm) Game
+1	002-D4C-19E	Infinite time--switch on to freeze time
+2	002-6DC-F7A + 012-6EC-F7E	1 min. per half
+3	002-6DC-F7A + 052-6EC-F7E	5 mins. per half
+4	062-6DC-F7A + 002-6EC-F7E	60 mins. per half
+World Cup Mode Codes:
+6	3EF-2BE-082 + 00F-2DE-E6D	Start with 43 points to use on the edit screen
+Exhibition Mode Only:
+7	0AF-21E-B3A	Start with only 10 points on edit screen
+8	2AF-21E-B3A	Start with 50 points on edit screen
+9	3CF-21E-B3A	Start with 60 points on edit screen
+10	001-21D-19E	Infinite points on edit screen
+Tengen World Cup Soccer is a trademark of Tengen, Inc.
+
+World Series Baseball(tm) Game
+1	009-76C-19A	Outs not counted--except strikeouts
+2	00A-C1E-19A	Can't walk
+3	01A-C3E-F7A	1 ball and you walk
+4	06A-C3E-F7A	6 balls and you walk
+5	09A-C3E-F7A	9 balls and you walk
+6	00A-37E-19A	No strikeouts
+7	01A-39E-E66	1 strike and you're out
+8	06A-39E-E66	6 strikes and you're out
+9	09A-39E-E66	9 strikes and you're out
+World Series Baseball is a trademark of Major League Baseball.
+
+WWF Steel Cage Challenge(tm) Game
+1	023-327-5D5	Start with no energy--Hulk Hogan
+2	4F3-327-5D5	Start with 1/4 energy--Hulk Hogan
+3	6A3-327-5D5	Start with 1/2 energy--Hulk Hogan
+4	C03-327-5D5	Start with 3/4 energy--Hulk Hogan
+5	453-8E7-5D5	Start with 1/4 energy--opponent
+6	6A3-8E7-5D5	Start with 1/2 energy--opponent
+7	C03-8E7-5D5	Start with 3/4 energy--opponent
+8	03B-BAB-C42	Not allowed outside ring for long
+9	003-076-E65	No out-of-ring counter for Hulk Hogan
+10	C98-076-6EE	Hulk is invincible and so is opponent, who can only be body slammed
+11	XXC-E05-F7A	Stamp takes xx points from opponent [04]
+12	XXB-EA5-F7A	Tummy bump takes 04
+13	FFB-845-A2A	Body slam causes max damage
+14	00B-845-A2A	Body slam causes no damage
+15	99B-845-A2A	Body slam causes 1/2 damage

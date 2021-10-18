@@ -1,0 +1,49 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1995 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+Fatal Fury Special(tm) Game
+1.	03C-38B-E6E	Faster timer
+2.	00C-38B-E6E	Infinite time
+3.	21C-75E-91D + 10C-71E-195 + 04C-73C-3B8	Start rounds with 10 seconds
+4.	21C-75E-91D + 20C-71E-195 + 04C-73C-3B8	Start rounds with 20 seconds
+5.	21C-75E-91D + 30C-71E-195 + 04C-73C-3B8	Start rounds with 30 seconds
+6.	21C-75E-91D + 40C-71E-195 + 04C-73C-3B8	Start rounds with 40 seconds
+7.	21C-75E-91D + 50C-71E-195 + 04C-73C-3B8	Start rounds with 50 seconds
+8.	12C-24E-E6B	Both players start with 1/4 energy
+9.	20C-24E-E6B	Both players start with 1/2 energy
+10.	2DC-24E-E6B	Both players start with 3/4 energy
+11.	118-109-E61	Only take damage from some projectile special moves
+12.	003-814-D5A	Terry's throw does very little damage
+13.	773-814-D5A	Terry's throw kills
+14.	005-59D-F7A	Terry's standing punch doesn't do damage
+15.	775-59D-F7A	Terry's standing puch kills
+16.	005-61D-C4A	Terry's standing kick doesn't do damage
+17.	775-61D-C4A	Terry's standing kick kills
+18.	005-71D-F72	Terry's crouching kick doesn't do damage
+19.	775-71D-F72	Terry's crouching kick kills
+Fatal Fury Special is a trademark of SNK.
+
+Samurai Shodown(tm) Game
+1.	00C-B3D-3BE	Infinite time
+2.	3EC-62D-80E + 32C-63D-193	Start round with 50 seconds
+3.	3EC-62D-80E + 3CC-63D-193	Start round with 60 seconds
+4.	3EC-62D-80E + 4BC-63D-193	Start round with 75 seconds
+5.	14F-4BF-E6B	Both players start with 1/4 energy
+6.	22F-4BF-E6B	Both players start with 1/2 energy
+7.	30F-4BF-E6B	Both players start with 3/4 energy
+8.	01B-F4D-EB9	Infinite energy
+9.	3EC-51D-191 + 01C-53D-08A	Get Pow from every hit
+10.	007-CAD-3B2	Once you have Pow you keep it
+11.	20B-4BC-F77 + 06B-4AC-E68	All hits do massive damage
+Samurai Shodown is a trademark of SNK.

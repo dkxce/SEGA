@@ -1,0 +1,310 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+CONTENTS OF THIS FILE
+VOL. 1, NO. 2
+1.	Addams Family(tm)
+2.	Bartman Meets Radioactive Man(tm)
+3.	Bram Stoker's Dracula(tm) (Extra Codes)
+4.	Cliffhanger(tm)
+5.	Desert Speedtrap(tm) (Extra Codes)
+6.	Desert Strike(tm)
+7.	GP Rider(tm)
+8.	James Pond II(tm)
+9.	Last Action Hero(tm)
+10.	Ms. Pac-Man(tm)
+11.	NBA Jam(tm)
+12.	Paperboy 2(tm)
+13.	PGA Tour Golf(tm)
+14.	Poker Face Paul's Poker(tm)
+15.	Road Rash(tm)
+16.	Robocop 3(tm)
+17.	Robocop versus the Terminator(tm)
+18.	Star Wars(tm)
+19.	Streets of Rage 2(tm) (Extra Code)
+20.	Strider Returns(tm) (Extra Code)
+21.	Winter Olympics(tm)
+
+Addams Family(tm) Game
+3AB-9F9-195	Start with 1/4 energy 1st life
+7AB-9F9-195	Start with 1/2 energy 1st life
+BBB-9F9-195	Start with 3/4 energy 1st life
+01B-AD9-F7E	Start with 2 lives
+07B-AD9-F7E	Start with 8 lives
+09B-AD9-F7E	Start with 10 lives
+006-46F-F7A	Immune to everything
+3A4-D1F-2A2	Infinite lives
+Addams Family is a trademark of Paramount Pictures.
+
+Bartman Meets Radioactive Man(tm) Game
+004-E5E-3B7	Infinite lives
+000-02C-F7A	Infinite energy
+011-56C-B3A	Start with mega-energy
+00F-93F-3BE	One hit and you're invincible
+010-20C-C4A	Don't flash after getting hit
+190-20C-C4A	Longer flash after getting hit
+C9F-C3D-082	Most enemies can't even touch you
+002-36C-19E	Infinite laser bolts on pick-up
+Bartman Meets Radioactive Man is a trademark of Twentieth Century Fox Film Corporation.
+
+Bram Stoker's Dracula(tm) Game (Extra Codes)
+3A5-93C-2A2	Invincible--can't be switched back on unless you're blinking
+C39-95E-E61	Protection from water and spikes
+Bram Stoker's Dracula is a trademark of Columbia Pictures Industries, Inc.
+
+Cliffhanger(tm) Game
+011-98E-E62	Start with 2 life
+041-98E-E62	Start with 5 lives
+091-98E-E62	Start with 10 lives
+012-73E-B39	Infinite lives
+011-A3E-A2A	Start with 1 energy bar
+051-A3E-A2A	Start with 5 energy bars
+018-9AE-B39	One hit kills
+011-80E-E66	1 continue
+051-80E-E66	5 continues
+091-80E-E66	9 continues
+C90-C6A-E69	Invincibility
+031-85E-E6A	Start on level 2
+061-85E-E6A	Start on level 3
+081-85E-E6A	Start on level 4
+Cliffhanger is a trademark of Cliffhanger B.V.
+
+Desert Speedtrap(tm) Game (Extra Codes)
+C31-A8B-E61	Enemies can't hurt
+035-0FF-E66 + 325-13F-082	Start on level 3
+065-0FF-E66 + 325-13F-082	Start on level 6
+095-0FF-E66 + 325-13F-082	Start on level 9
+0E5-0FF-E66 + 325-13F-082	Start on last level
+Desert Speedtrap is a trademark of SEGA.
+
+Desert Strike(tm) Game
+01E-03E-C4A	Start with 1 hellfire
+05E-03E-C4A	Start with 5 hellfires
+09E-03E-C4A	Start with 9 hellfires
+01E-08E-3BA	Start with 1 hydras
+56E-08E-3BA	Start with 56 hydras
+99E-0DE-3BA	Start with 99 hydras
+01E-0DE-A2E	Start with 178 guns
+06E-0DE-A2E	Start with 678 guns
+99E-0DE-A2E	Start with 9,978 guns
+01E-12E-08B + 01E-1CE-E6E	100 fuel load
+55E-12E-08B + 55E-1CE-E6E	5,500 fuel load
+99E-12E-1CE + 99E-1CE-E6E	9,900 fuel load
+03E-2BE-F72	Start with 300 armor
+06E-2BE-F72	Start with 600 armor
+99E-2BE-F72	Start with 9900 armor
+002-E97-E6E	Infinite fuel
+3A9-807-2A2	Infinite armor
+005-B07-E6E	Infinite hydras
+004-CF7-E6E	Infinite hellfires
+006-FC7-E6E	Infinite guns
+Desert Strike is a trademark of Electronic Arts.
+
+GP Rider(tm) Game
+215-2CC-4C2 + 022-5EC-E69	0 to max speed instantly
+00B-C1C-3BE	Infinite time
+AF6-2CE-08F	Always rank first in qualifying race
+GP Rider is a trademark of SEGA.
+
+James Pond II(tm) Game
+015-C7F-E66	Start 1st game with 1 life
+055-C7F-E66	Start 1st game with 5 lives
+095-C7F-E66	Start 1st game with 9 lives
+01F-3FB-801	Infinite lives
+015-CCF-E66	Start 1st life with 1 energy
+055-CCF-E66	Start 1st life with 5 energy
+095-CCF-E66	Start 1st life with 9 energy
+017-36F-E66	Start rest of lives with 1 energy
+057-36F-E66	Start rest of lives with 5 energy
+097-36F-E66	Start rest of lives with 9 energy
+01E-30C-801	Immunity to spikes
+FF5-D2F-E6A	Invincibility, and also one touch from you kills enemies
+025-94F-F7A	Start with 1 continue
+055-94F-F7A	Start with 4 continues
+095-94F-F7A	Start with 8 continues
+005-D8F-801	Infinite continues
+James Pond II is a trademark of Millennium.
+
+Last Action Hero(tm) Game
+031-20F-E6E	Start on scene 3
+051-20F-E6E	Start on scene 5
+071-20F-E6E	Start on scene 7
+011-25F-E66	Start with 1 life
+051-25F-E66	Start with 5 lives
+091-25F-E66	Start with 9 lives
+011-2AF-F76	Start with 1 heart
+051-2AF-F76	Start with 5 heart
+091-2AF-F76	Start with 9 heart
+3A1-F3F-2A2	Infinite lives
+AFE-9CF-19E	Collect 1 token to get fire extinguisher
+3A1-B1F-2A2	Infinite time
+Last Action Hero is a trademark of Columbia Pictures Industries, Inc.
+
+Ms. Pac-Man(tm) Game
+Codes work for player 1 only
+3E1-93A-6EA + 099-94A-E62	Ghosts are faster than normal after 1st level
+C92-D1A-C45	After a power pill runs out the ghosts go mad
+00C-F29-19E	Infinite lives
+014-DF9-E66	Start with 1 life
+094-DF9-E66	Start with 9 lives
+Ms. Pac-Man is a trademark of Namco Ltd.
+
+NBA Jam(tm) Game
+3CA-419-E68	Player 1's baskets always worth 1
+3EA-3B9-C45 + 02A-3C9-194	Player 1's 3-pt. shots worth 2
+3EA-3B9-C45 + 03A-3C9-194	Player 1's 2-pt. shots worth 3
+3EA-3B9-C45 + 04A-3C9-194	Player 1's baskets always worth 4
+3EA-3B9-C45 + 05A-3C9-194	Player 1's baskets always worth 5
+3EA-3B9-C45 + 06A-3C9-194	Player 1's baskets always worth 6
+3EA-3B9-C45 + 07A-3C9-194	Player 1's baskets always worth 7
+3EA-3B9-C45 + 08A-3C9-194	Player 1's baskets always worth 8
+3CA-5E9-E68	Player 2's baskets always worth 1
+07E-214-C46	Player has super dunk ability
+07E-0F4-C46	Player has infinite turbo
+07E-334-C46	Player is permanently 'on fire'
+07D-EB4-C46	Player has enhanced interception ability
+00D-E34-F7A	Player has enhanced defensive ability
+07E-454-D56	'Juice' mode
+07D-FD4-C46	Shot success percentages displayed for all non-dunk shots
+CODES 17 THRU 25 MAY OCCASIONALLY CAUSE SOME GRAPHIC ERRORS
+01A-EE9-E66	Only 1 basket needed to be 'on fire'
+02A-EE9-E66	Only 2 baskets needed to be 'on fire'
+04A-EE9-E66	4 baskets needed to be 'on fire'
+05A-EE9-E66	5 baskets needed to be 'on fire'
+06A-EE9-E66	6 baskets needed to be 'on fire'
+07A-EE9-E66	7 baskets needed to be 'on fire'
+08A-EE9-E66	8 baskets needed to be 'on fire'
+09A-EE9-E66	9 baskets needed to be 'on fire'
+0AA-EE9-E66	10 baskets needed to be 'on fire'
+0ED-2AA-5D2	Turbo drains very slowly
+15D-2AA-5D2	Turbo drains slower
+1DD-2AA-5D2	Turbo drains slightly slower
+40D-2AA-5D2	Turbo drains slightly faster
+50D-2AA-5D2	Turbo drains faster
+81D-2AA-5D2	Turbo drains very quickly
+C9D-5DA-91D	Turbo doesn't recharge until end of quarter
+001-4CD-19E	Infinite shot clock time
+031-25A-80A	3-sec. shot clock for computer
+051-25A-80A	5-sec. shot clock for computer
+0F1-25A-80A	15-sec. shot clock for computer
+007-D09-E62	Gravity mode 1
+017-D09-E62	Gravity mode 2
+3A5-D9E-2A2	Infinite time
+018-C7F-E66 + 01A-C6F-E66	1-min. quarters
+008-C7F-E66 + 00A-C6F-E66	1-shot game
+098-C7F-E66 + 09A-C6F-E66	9-min. quarters
+018-C7F-E66 + 01A-C6F-E66	1-min. quarters
+3AA-5F9-2A2	Computer can't score
+028-8CF-E6E	Games last 3 quarters
+038-8CF-E6E	Games last 2 quarters
+200-CFD-C46	Shot clock always displayed
+NBA Jam is a trademark of NBA Properties, Inc.
+
+Paperboy 2(tm) Game
+003-6FF-6E6	Makes it much harder to pick up speed
+Paperboy 2 is a trademark of Tengen Inc.
+
+PGA Tour Golf(tm) Game
+3E7-71C-191 + 407-72C-105 + 187-73C-6EA	Strong wind
+3E7-71C-191 + 1F7-71C-195 + 187-73C-6EA	Massive wind
+017-A2C-4CA	Hit longer shots
+FF7-A2C-4CA	Hit even longer shots
+006-50D-19A	Shots don't count--always hole in one
+PGA Tour is a trademark of PGA Tour.
+
+Poker Face Paul's Poker(tm) Game
+FF2-EBE-2A2	Max bet is about $250
+995-FDF-6EA	Start with $9,900
+00C-F4F-A24	Don't lose money in 5-card stud
+Poker Face Paul's Poker is a trademark of SEGA.
+
+Road Rash(tm) Game
+00A-C6C-E62	Don't lose speed on grass
+3EA-C3C-08A + FFA-C4C-E62	Always travel at max speed--must press button 1 to start moving
+058-49C-916	Start with very little bike energy
+FF8-49C-916	Start with mega bike energy
+213-054-91D	Infinite bike energy
+001-24A-A2C	Biker information disappears
+00D-B5E-E6E	Infinite time
+3EE-9A5-4CA + 00E-9B5-F7A	Inflict more damage when you punch other bikers
+Road Rash is a trademark of Electronic Arts.
+
+Robocop 3(tm) Game
+31E-13F-2A6	Start with 1 life
+35E-13F-2A6	Start with 5 lives
+39E-13F-2A6	Start with 9 lives
+3AB-30D-2A2	Infinite lives
+3AA-BF6-2A2 + 3AC-156-2A2	Infinite energy
+3AD-346-2A2	Power-ups do nothing
+000-E05-E6E	Infinite timer
+099-86F-E6E	Start 1st life with 900 bullets
+006-64D-A2C	Infinite ammo all guns
+Robocop 3 is a trademark of Orion Pictures Corporation.
+
+Robocop versus the Terminator(tm) Game
+039-09D-E6E	Start on level 3--streets of Detroit
+059-09D-E6E	Start on level 5--Delta City under construction
+079-09D-E6E	Start on a secret level
+014-2FA-6EA	Start with very little energy
+00C-61B-A29	Infinite energy
+01C-56B-E62	Don't flash after getting hit
+59C-56B-E62	Flash longer after getting hit
+C9D-FAD-3BF	Invincible after getting hit once
+01A-5F8-912	Full energy pots restore a small amount of energy
+19A-5F8-912	Full energy pots restore all your energy
+019-12D-F76 + 009-10D-F77	Mega-lives
+099-12D-F76 + 009-10D-F77	Start with 7 lives
+Robocop versus the Terminator is a trademark of Orion Pictures Corporation.
+
+Star Wars(tm) Game
+00D-92B-3B7 + 3AD-93B-2A2	Infinite energy--all players
+Codes for Leia:
+20E-347-A2A	Start with 7 energy pts.--1st life
+30E-347-A2A	Start with 9 energy pts.--1st life
+40E-347-A2A	Start with 12 energy pts.--1st life
+210-D48-91D	Storm troopers are invincible
+C90-B2E-5DD	Everything on the screen disappears except you and obstacles
+20F-48A-A2A	Start with 7 energy pts.--after 1st life
+30F-48A-A2A	Start with 9 energy pts.--after 1st life
+40F-48A-A2A	Start with 12 energy pts.--after 1st life
+Codes for Luke:
+05E-237-E62	Start with 6 lives
+09E-237-E62	Start with 10 lives
+30A-12B-A2A	Start with 16 energy pts.--1st life
+40A-12B-A2A	Start with 22 energy pts.--1st life
+50A-12B-A2A	Start with 27 energy pts.--1st life
+30F-6FA-A2A	Start with 16 energy pts. after 1st life
+40F-6FA-A2A	Start with 22 energy pts. after 1st life
+50F-6FA-A2A	Start with 27 energy pts. after 1st life
+3AF-6BA-2A2	Infinite lives
+Star Wars and related names are trademarks of Lucasfilm Ltd.
+
+Streets of Rage 2(tm) Game (Extra Code)
+3E8-83A-91D + 098-84A-193 + 008-85A-E6F	Mega-power attacks
+Streets of Rage 2 is a trademark of SEGA.
+
+Strider Returns(tm) Game (Extra Code)
+001-49C-19E + 213-BEC-2A2	Loads of bad guys
+C91-4AC-2A2 + 000-71C-195	Only 1 animal enemy in game
+Strider is a trademark of Capcom USA.
+
+Winter Olympic Games(tm) Game
+000-5A9-A29	Start on any skill level
+7E0-0BD-3B7 + C91-B2D-91D	Always gain speed on luge and bobsleigh
+01E-87D-F7E	1 shot on biathlon
+07E-87D-F7E	7 shots on biathlon
+09E-87D-F7E	9 shots on biathlon
+00A-02E-19A	Infinite time--biathlon
+2E8-51E-5DD + E08-52E-A23 + 188-53E-2AA	Full power on speed skating
+Winter Olympic Games is a trademark of LOOC.

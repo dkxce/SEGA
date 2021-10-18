@@ -1,0 +1,79 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1995 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+CONTENTS OF THIS FILE
+1.	Bubble Bobble(tm) Game
+2.	RBI Baseball '94(tm) Game
+3.	Tom and Jerry-The Movie(tm) Game
+4.	Quest for the Shaven Yak Starring Ren Ho‘k and Stimpy(tm) Game
+
+Bubble Bobble(tm) Game
+1.	01F-0BE-F72				Start with 1 life
+2.	09F-0BE-F72				Start with 9 lives
+3.	0FF-0BE-F72				Start with 15 lives
+4.	00F-12E-5D4				Start with letters "X" and "T"
+5.	FF0-4B7-E6A + FF9-607-E6A	Almost invincible
+Bubble Bobble is a trademark of Taito America Corporation
+
+
+RBI Baseball '94(tm) Game
+1.	00B-FAE-3BA	Almost no strikes
+2.	01C-85E-E66	1 strike needed for an out
+3.	02C-85E-E66	2 strikes needed for an out
+4.	05C-85E-E66	5 strikes needed for an out
+5.	0EC-85E-E66	15 strikes needed for an out
+6.	00C-ADE-3BA	Never strike outs
+7.	00C-07E-D59	Never walk
+8.	01C-8DE-F7A	1 ball needed for walk
+9.	05C-8DE-F7A	5 balls needed for walk
+10.	0AC-8DE-F7A	10 balls needed for walk
+11.	0EC-8DE-F7A	15 balls needed for walk
+12.	000-0C5-3BA	No scoring--swtich off when your at bat to score
+RBI is a trademark of Atari Games
+
+
+Tom and Jerry-The Movie(tm) Game
+1.	000-AEA-19E						Infinite energy
+2.	018-D4E-C4A						Start with very little energy
+3.	028-D4E-C4A						Start with less energy
+4.	0A8-D4E-C4A						Start with more energy
+5.	0F8-D4E-C4A						Start with even more energy
+6.	00B-E77-F76						Start with no continues
+7.	0AB-E77-F76						Start with 10 continues
+8.	0FB-E77-F76						Start with 15 continues
+9.	00E-CD6-19E						Infinite continues
+10.	3EB-FE7-2A2 + 01B-FF7-F7A + 00C-007-E6D	Start on level 1
+11.	3EB-FE7-2A2 + 02B-FF7-F7A + 00C-007-E6D	Start on level 2
+12.	3EB-FE7-2A2 + 03B-FF7-F7A + 00C-007-E6D	Start on level 3
+13.	3EB-FE7-2A2 + 04B-FF7-F7A + 00C-007-E6D	Start on level 4
+14.	3EB-FE7-2A2 + 05B-FF7-F7A + 00C-007-E6D	Watch the ending
+Tom and Jerry-The movie is a trademark of Turner Entertainment Co.
+
+
+Quest for the Shaven Yak Starring Ren Ho‘k and Stimpy(tm) Game
+1.	013-4EE-E66	Start with 1 life
+2.	053-4EE-E66	Start with 5 lives
+3.	093-4EE-E66	Start with 9 lives
+4.	001-D8F-5D4	Start on a strange level
+5.	001-B8E-3BE	Infinite lives
+6.	00E-ACB-3BE	Infinite energy
+7.	021-C0E-F72	Stimpy starts with less energy after 1st life
+8.	031-C0E-F72	Stimpy starts with half energy after 1st life
+9.	00E-E7C-E6E	Invincible after first hit
+10.	01E-ECB-803	You still get hurt when you flash
+11.	99E-ECB-803	Flash twice as long after getting hit
+12.	FFE-ECB-803	Flash longer after getting hit
+13.	00E-ECB-803	Flash a lot longer after getting hit
+Quest for the Shaven Yak Starring Ren Ho‘k and Stimpy and related names are trademarks of Nickelodeon
+

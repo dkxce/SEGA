@@ -1,0 +1,106 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1996 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+CONTENTS OF THIS FILE:
+Disney's The Jungle Book(tm) Game
+Phantom 2040(tm)
+Earthworm Jim(tm) Game
+
+Disney's The Jungle Book(tm) Game
+1.	19C 26E 7FB	Very little flash time after getting hit
+2.	99C 26E 7FB	More flash time after getting hit
+3.	3AC 20E 2A2	Infinite energy
+4.	AFC 1FE 19E	1 hit and you die
+5.	C3B 7DE E61	Invincible
+Disney's The Jungle Book is a trademark of The Walt Disney Company
+
+Phantom 2040(tm)
+1.	109-309-A2A	Start with 10 bullets for your normal gun
+2.	259-309-A2A	Start with 25 bullets for your normal gun
+3.	509-309-A2A	Start with 50 bullets for your normal gun
+4.	759-309-A2A	Start with 75 bullets for your normal gun
+5.	999-309-A2A	Start with 99 bullets for your normal gun
+6.	005-A9E-E6E	Infinite bullets for your normal gun
+7.	019-419-E66	Start with 1 life
+8.	059-419-E66	Start with 5 lives
+9.	079-419-E66	Start with 7 lives
+10.	099-419-E66	Start with 9 lives
+11.	993-2AC-F72	Always collect max bullets for your normal gun
+12.	7EE-509-3B7	Almost infinite energy--Switch off to kill some enemies
+Phantom 2040 is a trademark of the Hearst Corporation
+
+Earthworm Jim(tm) Game
+1.	194-D86-7FB	Start with 1/4 energy
+2.	324-D86-7FB	Start with 1/2 energy
+3.	4B4-D86-7FB	Start with 3/4 energy
+4.	B84-DD6-4C9 + 8B4-E26-E66	Start with 3000 bullets
+5.	AO4-DD6-4C9 + 8C4-E26-E66	Start with 4000 bullets
+6.	884-DD6-4C9 + 904-E26-E66	Start with 5000 bullets
+7.	704-DD6-4C9 + 944-E26-E66	Start with 6000 bullets
+8.	FF4-DD6-4C9 + FF4-E26-E66	Start with MEGA ammo
+9.	3A4-0EC-2A2	Infinite lives
+10.	3A3-B4C-2A2	Infinite energy
+11.	3A5-53A-2A2	Infinite gun
+12.	885-7C9-A2A	Flash longer when hit on the ground
+13.	885-7C9-A2A	Don’t flash at all when hit on the ground
+14.	3AE-01F-2A2	One hit and you’re invincible
+15.	18D-EAF-6EA	Invincible
+16.	002-5CC-C49	Gun pick-ups worth nothing
+17.	012-5CC-C49	Gun pick-ups worth 1
+18.	192-5CC-C49	Gun pick-ups worth 25
+19.	322-5CC-C49	Gun pick-ups worth 50
+20.	FF2-5CC-C49	Gun pick-ups worth a lot
+21.	002-3BC-B3A	Energy pick-ups worth nothing
+22.	012-3BC-B3A	Energy pick-ups worth 1
+23.	192-3BC-B3A	Energy pick-ups worth 25
+24.	322-3BC-B3A	Energy pick-ups worth 50
+25.	FF2-3BC-B3A	Energy pick-ups worth a lot
+Earthworm Jim is a trademark of Shiny Entertainment, Inc.
+
+
+Shaq-Fu(tm) Game
+1.	7E6-C0F-3BE + 7E6-CEF-3BE	Infinite time
+2.	01A-2AD-F7E	Start with 10 seconds
+3.	09A-2AD-F7E	Start with 90 seconds
+4.	0FA-2AD-F7E	Start with 150 seconds
+5.	019-FED-2A2 + 019-FFD-2A2 + 01A-B4D-2A2	Start with very little energy
+6.	0D9-FED-2A2 + 0D9-FFD-2A2 + 0DA-B4D-2A2	Start with 1/4 energy
+7.	199-FED-2A2 + 199-FFD-2A2 + 19A-B4D-2A2	Start with 1/2 energy
+8.	229-FED-2A2 + 229-FFD-2A2 + 22A-B4D-2A2	Start with 3/4 energy
+9.	FF9-FED-2A2 + FF9-FFD-2A2 + FFA-B4D-2A2	Start with MEGA energy
+10.	007-F5B-F72	Roundhouse kick does nothing
+11.	017-F5B-F72	Roundhouse kick does very little damage
+12.	1A7-F5B-F72	Roundhouse kick does more damage
+13.	407-F5B-F72	Roundhouse kick kills
+14.	007-D1B-F7A	Jumping punch does nothing
+15.	017-D1B-F7A	Jumping punch does very little damage
+16.	1A7-D1B-F7A	Jumping punch does more damage
+17.	407-D1B-F7A	Jumping punch kills
+18.	008-21B-D5A	Flaming roundhouse does nothing
+19.	018-21B-D5A	Flaming roundhouse does very little damage
+20.	1A8-21B-D5A	Flaming roundhouse does more damage
+21.	408-21B-D5A	Flaming roundhouse kills
+22.	007-81B-F7A	Straight kick does nothing
+23.	017-81B-F7A	Straight kick does very little damage
+24.	1A7-81B-F7A	Straight kick does more damage
+25.	407-81B-F7A	Straight kick kills
+26.	007-F9B-F7A	Roundhouse sweep does nothing
+27.	017-F9B-F7A	Roundhouse sweep does very little damage
+28.	1A7-F9B-F7A	Roundhouse sweep does more damage
+29.	407-F9B-F7A	Roundhouse sweep kills
+30.	007-71B-F7A	Standing punch does nothing
+31.	017-71B-F7A	Standing punch does very little damage
+32.	1A7-71B-F7A	Standing punch does more damage
+33.	407-71B-F7A	Standing punch kills
+Shaq is a trademark of Mine 'O Mine, Inc.

@@ -1,0 +1,50 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+
+The Lion King(tm) Game
+CODES 1-6: ONLY WORK ON THE LION PRINCE DIFFICULTY LEVEL
+1.	017-B98-E66	Start with 1 life
+2.	057-B98-E66	Start with 5 lives
+3.	097-B98-E66	Start with 9 lives
+4.	027-BB8-C4A	Start with 1/2 of a Circle of Life
+5.	047-BB8-C4A	Start with 1 Circle of life
+6.	007-BB8-C4A	Start with no Circles of Life
+7.	3A6-439-2A2	Get hit and become Invisible
+8.	0F6-639-7FB	Flash less after getting hit
+9.	FF6-639-7FB	Flash longer after getting hit
+10.	3A9-9E9-2A2	Ladybugs don't restore any energy
+11.	3A6-88C-2A2	Infinite lives
+12.	3E5-B5A-4CA	Invisible
+13.	3E7-73B-7F4 + 3D7-76B-A27 + 327-77B-082	Invincible
+The Lion King and related names are trademarks of The Walt Disney Company.
+
+NFL '95(tm)
+1.	3A2-6DB-2A2	Infinite time outs
+2.	00C-DAF-E66	No time outs
+3.	05C-DAF-E66	Start with 5 time outs
+4.	10C-DAF-E66	Start with 10 time outs
+5.	00C-F4F-F7E	Only have enough time for one play after kick off in each quater
+6.	02C-F4F-F7E	2 min. quarters
+7.	3CC-F4F-F7E	60 min. quarters
+8.	3A8-D7E-2A2	Infinite play timer
+9.	0A0-79B-4CA	Start with 10 seconds on play clock after most plays
+10	049-35E-E6E + 509-30E-C42	Always 4th and goal after a kickoff
+11.	006-B09-F72	Touchdowns worth 0 points
+12	016-B09-F72	Touchdowns worth 1 point
+13.	036-B09-F72	Touchdowns worth 3 points
+14.	056-B09-F72	Touchdowns worth 5 points
+15	096-B09-F72	Touchdowns worth 9 points
+16.	000-6C9-3BA	Extra Points worth 0 points
+NFL '95 is a trademark of Sega

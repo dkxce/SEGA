@@ -1,0 +1,44 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+Mortal Kombat II(tm) Game
+1	00B-B19-F79	Infinite energy
+2	001-30A-082 + 3E1-31A-C42 + 001-32A-F7A	View ending
+3	3A4-026-2A2	Infinite credits
+4	001-2CA-F76	Start with 0 credits 
+5	0B1-2CA-F76	Start with 10 credits 
+6	101-2CA-F76	Start with 15 credits 
+7	04B-7C6-C4E	Start with 49 sec.
+8	07B-7C6-C4E	Start with 79 sec.
+9	00B-7C6-C4E	Start with 9 sec.
+10	005-3F5-3BE	Infinite time
+11	32B-A3E-F77	Start with 3/4 energy--player 1
+12	22B-A3E-F77	Start with 1/2 energy--player 1
+13	12B-A3E-F77	Start with 1/4 energy--player 1
+14	02B-A3E-F77	Start with very little energy--player 1
+15	32B-A6E-F77	Start with 3/4 energy--player 2
+16	22B-A6E-F77	Start with 1/2 energy--player 2
+17	12B-A6E-F77	Start with 1/4 energy--player 2
+18	02B-A6E-F77	Start with very little energy--player 2
+19	006-4EF-D56	Flying kick does no damage
+20	996-4EF-D56	Flying kick does mega damage
+21	006-66F-A2E	Uppercut does no damage
+22	996-66F-A2E	Uppercut does mega damage
+23	006-1EF-E66	Crouching kick does no damage
+24	996-1EF-E66	Crouching kick does mega damage
+25	006-26F-F72	Regular high kick does no damage
+26	996-26F-F72	Regular high kick does mega damage
+27	006-AEF-C42	Roundhouse foot sweep does no damage
+28	996-AEF-C42	Roundhouse foot sweep does mega damage
+Mortal Kombat is a trademark of Midway Manufacturing Company

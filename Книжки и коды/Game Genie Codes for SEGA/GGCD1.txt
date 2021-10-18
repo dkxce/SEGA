@@ -1,0 +1,874 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+CONTENTS OF THIS FILE:
+
+1.	Alien 3
+2.	Alien Syndrome
+3.	Arch Rivals
+4.	Ariel, Disney's The Little Mermaid
+5.	Ax Battler--A Legend of Golden Axe
+6.	Ayrton Senna's Super Monaco GP II
+7.	Batman Returns
+8.	Castle of Illusion starring Mickey Mouse
+9.	Chakan
+10.	Chase H.Q. 
+11.	Chuck Rock
+12.	Clutch Hitter
+13.	Crystal Warriors
+14.	Devilish
+15.	Disney's TaleSpin
+16.	Dragon Crystal
+17.	Factory Panic
+18.	Fantasy Zone
+19.	G-LOC Air Battle
+20.	George Foreman's K.O. Boxing
+21.	Global Gladiators
+22.	Halley Wars
+23.	The Incredible Crash Dummies
+24.	Indiana Jones and the Last Crusade
+25.	Joe Montana Football (Version A)
+25A.	Joe Montana Football (Version B)
+26.	KLAX
+27.	Krusty's Fun House
+28.	Land of Illusion starring Mickey Mouse
+29.	Lemmings
+30.	The Lucky Dime Caper starring Donald Duck
+31.	The Majors: Pro Baseball
+32.	Ninja Gaiden
+33.	Olympic Gold Barcelona Ô92
+34.	Out Run Europa
+35.	Pac-Man
+36.	Paperboy
+37.	Pengo
+38.	Predator 2
+39.	Prince of Persia
+40.	R.C. Grand Prix
+41.	Revenge of Drancon
+42.	Shinobi
+43.	Shinobi II The Silent Fury
+44.	The Simpsons: Bart Vs the Space Mutants
+45.	Slider
+46.	Sonic the Hedgehog--Version 0
+46A.	Sonic the Hedgehog--Version 1
+47.	Sonic the Hedgehog 2
+48.	Space Harrier
+49.	Streets of Rage
+50.	Super Golf
+51.	Super Off-Road
+52.	Super Smash TV
+53.	Super Space Invaders
+54.	Taz-Mania
+55.	The Terminator
+56.	Tom and Jerry
+57.	Vampire, Master of Darkness
+58.	Wimbledon Tennis
+59.	Wonderboy 
+60.	Woody Pop--Version A
+60A.	Woody Pop--Version B
+
+Alien 3 Game
+00B-3D6-3BE	Infinite time--but timer still counts down
+002-B1C-3B7	Infinite energy
+00C-F2A-F79	Infinite lives
+008-0D7-3BE	Infinite ammo for grenade launcher on pickup
+002-6E6-19E	Infinite ammo for flame thrower on pickup
+006-4A7-19E Infinite ammo for machine gun on pickup
+058-BA8-E66	Start with 5 lives
+078-BA8-E66	Start with 7 lives
+098-BA8-E66	Start with 9 lives
+Alien 3 is a trademark of Twentieth Century Fox Film Corporation
+
+Alien Syndrome Game
+010-75F-E66	Start with 1 life
+050-75F-E66	Start with 5 lives
+090-75F-E66	Start with 9 lives
+058-39F-E66	Start with 500 sec.
+098-39F-E66	Start with 900 sec.
+Alien Syndrome is a trademark of Sega Enterprises Ltd.
+
+Arch Rivals Game
+01C-ACF-F7A	1-minute quarters
+03C-ACF-F7A	3-minute quarters
+07C-ACF-F7A	7-minute quarters
+02E-2FE-E6E	Faster timer
+00E-2FE-E6E	Infinite time
+00F-7DE-3B7	Computer opponents can't score
+Arch Rivals is a trademark of Midway Manufacturing Company.
+
+Ariel, Disney's The Little Mermaid Game
+006-109-19E	Infinite lives
+AF5-AA9-19E	Collect 1 polyp to find exit
+027-4AF-F7A	Start with 3 lives
+077-4AF-F7A	Start with 8 lives
+*=Ignore counter
+097-4AF-F7A	*Start with 10 lives
+197-4AF-F7A	*Start with 26 lives
+327-4AF-F7A	*Start with 51 lives
+627-4AF-F7A	*Start with 99 lives
+005-039-E6E	Infinite keys
+Ariel, Disney's The Little Mermaid is a trademark of The Walt Disney Company
+
+Ax Battler--A Legend of Golden Axe Game
+02C-0BF-F72	Start with 1 energy bar
+04C-0BF-F72	Start with 2 energy bars
+3E7-23B-80E	31 vases on pick-up (maximum)
+3A4-C1D-2A2	Hotels, weapons, etc. cost nothing
+Ax Battler--A Legend of Golden Axe is a trademark of SEGA.
+
+Ayrton Senna's Super Monaco GP II Game
+21B-60B-2A2	Can't lose or gain place--to overtake, turn off code, pass, turn on again
+00B-3DF-3B7	Infinite time
+Ayrton Senna's Super Monaco GP II is a trademark of SEGA.
+
+Batman Returns Game
+028-498-E66	Start with 2 lives
+058-498-E66 	Start with 5 lives
+078-498-E66 	Start with 7 lives
+00A-57A-E6E	Infinite lives
+004-758-19E 	Infinite special items
+028-4E8-C42 	Start with 2 energy units--1st life
+068-4E8-C42 	Start with 6 energy units--1st life
+088-4E8-C42 	Start with 8 energy units--1st life
+02B-33A-C42 	Start with 2 energy units--after 1st life
+04B-33A-C42	Start with 4 energy units--after 1st life
+08B-33A-C42	Start with 8 energy units--after 1st life
+038-538-E6E	Start with 3 special items--1st life
+03B-38A-E6E	Start with 3 special items--after 1st life
+06B-38A-E6E	Start with 6 special items--after 1st life
+09B-38A-E6E	Start with 9 special items--after 1st life
+Batman Returns is a trademark of DC Comics Inc., a Time Warner Entertainment 
+Company.
+
+Castle of Illusion starring Mickey Mouse Game
+008-A6E-E6E	Infinite lives
+003-64C-E69	Infinite energy
+029-76F-E66	Start with 2 energy stars
+049-76F-E66	Start with 4 energy stars
+059-76F-E66	Start with 5 energy stars
+036-C1E-F7A	Timer starts at 300
+056-C1E-F7A	Timer starts at 500
+066-C1E-F7A	Timer starts at 600
+Castle of Illusion starring Mickey Mouse is a trademark of Sega of America, Inc.
+
+Chakan Game
+007-A4E-A28	Infinite health (skull)
+307-90E-D5A	Stay invincible longer after getting hit
+807-90E-D5A	Stay invincible a lot longer after getting hit
+002-6FE-19E	Stay invincible for almost forever after getting hit
+*=Don't combine with each other
+AA0-1D4-5DC	*Start with ice sword in inventory
+AB0-1D4-5DC	*Start with fire sword
+AC0-1D4-5DC	*Start with lightning sword
+A60-184-6E8 + FF0-164-E6E	Start with eye
+A80-184-6E8 + FF0-164-E6E	Start with sickle
+A90-184-6E8 + FF0-164-E6E	Start with egg timer
+Chakan is a trademark of RAK Graphics.
+
+Chase H.Q.  Game
+006-B4D-3BE	Infinite turbos
+324-74D-10A	Timer starts at 50 seconds --1st life
+464-74D-10A	Timer starts at 70 sceonds --1st life
+5A4-74D-10A	Timer starts at 90 seconds --1st life
+327-61C-10A	Timer starts at 50 seconds--after 1st life
+Chase H.Q. is a trademark of Taito America Corporation.
+
+Chuck Rock Game
+008-52E-E66	Start with 1 life
+018-52E-E66	Start with 2 lives
+058-52E-E66	Start with 6 lives
+88A-5CE-F72	Start with mega energy--1st life
+02E-EBF-E6A	Start on level 2
+03E-EBF-E6A	Start on level 3
+04E-EBF-E6A	Start on level 4
+3AB-0EE-19D	Start with lots of lives (ignore counter)
+Chuck Rock is a trademark of Core Design, Ltd.
+
+Clutch Hitter Game
+005-109-19A				Strikes aren't called (except fouls)
+025-129-E66				2 strikes and you're out
+045-129-E66				4 strikes and you're out
+015-3B9-F7A				1 ball and you walk
+025-3B9-F7A				2 balls and you walk
+005-399-19A				Balls aren't counted
+008-E99-19A + 008-F89-19A	No scoring--turn codes off to score	
+Clutch Hitter is a trademark of Sega of America, Inc.
+
+Crystal Warriors Game
+96D-335-6EA	Iris starts with 50 HP
+96D-345-802	Iris starts with 50 MP
+96D-355-A22	Iris starts with 50 AP
+96D-365-C42	Iris starts with 50 DP
+96D-375-C42	Iris starts with 50 LK
+Crystal Warriors and related names are trademarks of SEGA.
+
+Devilish Game
+Normal game codes:
+00C-EDA-19E	Infinite balls
+3A3-A6E-2A2	Infinite credits
+011-76D-E62	Start with 2 balls
+061-76D-E62	Start with 7 balls
+081-76D-E62	Start with 9 balls
+012-9AE-E62	Start with 2 credits
+052-9AE-E62	Start with 6 credits
+072-9AE-E62	Start with 8 credits
+022-E2E-E6E	Start on Stage 2 Under Passage
+032-E2E-E6E	Start on Stage 3 Waterfalls
+042-E2E-E6E	Start on Stage 4 Old Castle
+052-E2E-E6E	Start on Stage 5 Prairie
+062-E2E-E6E	Start on Stage 6 Volcano
+072-E2E-E6E	Start on Stage 7 World of Ice
+082-E2E-E6E	Start on Stage 8 Evil Temple
+Devilish and related names are trademarks of Sage's Creation Inc.
+
+Disney's TaleSpin Game
+013-43F-E66	Start with 2 lives
+063-43F-E66	Start with 7 lives
+093-43F-E66	Start with 10 lives
+013-48F-E66	Start with 1 credits
+063-48F-E66	Start with 6 credits
+093-48F-E66	Start with 9 credits
+3AB-B5D-2A2	Infinite lives
+3A6-3CB-2A2	Infinite continues
+Disney's TaleSpin is a trademark of The Walt Disney Company.
+
+Dragon Crystal Game
+214-EBA-6E2	Infinite hit points
+4BF-FAF-7FB	Start with 75 hit points
+96F-FAF-7FB	Start with 150 hit points
+7DF-FAF-7FB	Start with 125 hit points
+50F-F5F-2AA	Start with 50 food
+75F-F5F-2AA	Start with 75 food
+99F-F5F-2AA	Start with maximum food (99)
+3AE-FBD-2A2	Infinite food
+Best to avoid enemies if you start at high levels until you are better equipped.
+02F-EDF-E6E	Start on floor 2 as ranger
+03F-EDF-E6E	Start on floor 3 as soldier
+04F-EDF-E6E	Start on floor 4 as warrior
+05F-EDF-E6E	Start on floor 5 as fighter
+06F-EDF-E6E	Start on floor 6 as swordsman
+07F-EDF-E6E	Start on floor 7 as veteran
+08F-EDF-E6E	Start on floor 8 as knight
+09F-EDF-E6E	Start on floor 9 as champion
+0AF-EDF-E6E	Start on floor 10 as hero
+0BF-EDF-E6E	Start on floor 11 as master
+0CF-EDF-E6E	Start on floor 12 as paladin
+0DF-EDF-E6E	Start on floor 13 as warlord
+0EF-EDF-E6E	Start on floor 14 as dragon lord
+0FF-EDF-E6E	Start on floor 15 as avatar
+10F-EDF-E6E	Start on floor 16 as master lord
+Dragon Crystal is a trademark of Sega of America, Inc.
+
+Factory Panic Game
+00C-12F-3BE	Infinite timer
+029-72F-E66	Start with 2 lives
+059-72F-E66	Start with 5 lives
+089-72F-E66	Start with 8 lives
+000-6AC-E65	Infinite lives
+029-77F-F72	Start with 1 continue
+049-77F-F72	Start with 3 continues
+099-77F-F72	Start with 8 continues
+006-C1F-E65	Infinite continues
+Factory Panic is a trademark of SEGA.
+
+Fantasy Zone Game
+010-A3F-E62	Start with 2 lives
+040-A3F-E62	Start with 5 lives
+070-A3F-E62	Start with 8 lives
+3A1-8EF-2A2	Infinite lives
+3E0-E5F-2A2 + 010-E6F-D5E + 000-C7F-E69	Start on level 2
+3E0-E5F-2A2 + 020-E6F-D5E + 000-C7F-E69	Start on level 3
+3E0-E5F-2A2 + 030-E6F-D5E + 000-C7F-E69	Start on level 4
+3E0-E5F-2A2 + 040-E6F-D5E + 000-C7F-E69	Start on level 5
+3E0-E5F-2A2 + 050-E6F-D5E + 000-C7F-E69	Start on level 6
+3E0-E5F-2A2 + 060-E6F-D5E + 000-C7F-E69	Start on level 7
+Fantasy Zone is a trademark of Sega.
+
+G-LOC Air Battle Game 
+002-E5E-E6E	Infinite missiles
+050-16E-EFE	Each enemy target counts as 5
+080-16E-EFE	Each enemy target counts as 8
+0A0-16E-EFE	Each enemy target counts as 10
+C3F-80A-A21	Turn on code to complete a level
+G-LOC Air Battle is a trademark of Sega of America, Inc.
+
+George Foreman's K.O. Boxing Game
+21C-04C-2A2	Infinite superpunches
+602-CEE-E68	Both boxers start with 3/4 energy
+402-CEE-E68	Both boxers start with 1/2 energy
+202-CEE-E68	Both boxers start with 1/4 energy
+000-BED-19E	Infinite ring timer
+02F-59E-E66	2-min. rounds
+04F-59E-E66	4-min. rounds
+06F-59E-E66	6-min. rounds
+George Foreman's K.O. Boxing is a trademark of Acclaim Entertainment, Inc.
+
+Global Gladiators Game
+219-82B-6E2	Infinite timer
+0A2-88B-F76	Start with 10 min.
+062-88B-F76	Start with 6 min.
+042-88B-F76	Start with 4 min.
+022-88B-F76	Start with 2 min.
+05F-ACD-E6E	Each M logo counts as 5
+03F-ACD-E6E	Each M logo counts as 3
+012-51E-F7E	Start with 1 life
+052-51E-F7E	Start with 5 lives
+0A2-51E-F7E	Start 10 lives
+002-08E-A29	Infinite lives
+Global Gladiators is a trademark of Virgin.
+
+Halley Wars Game
+00F-F2E-19E 	Infinite lives
+00F-E1E-19E 	Keep power-ups after dying
+014-43F-E66	Start with 1 life
+054-43F-E66 	Start with 5 lives
+074-43F-E66 	Start with 7 lives
+3EF-5DF-082 + 04F-5EF-C43 + 00F-5FF-E69	Collect 1 gun power-up and get max
+3EF-72F-082 + 03F-73F-C4F + 00F-74F-E69	Collect 1 thrust and get max manuverability
+Halley Wars is a trademark of Taito Corp.
+
+The Incredible Crash Dummies Game
+01C-40F-F7E						Start with 1 life instead of 5
+03C-40F-F7E						Start with 3 lives
+07C-40F-F7E						Start with 7 lives
+09C-40F-F7E						Start with 1 lives
+00F-45F-19E						Infinite lives
+403-69E-6EB						Start with 40 seconds on day 1 instead of 60
+803-69E-6EB						Start with 80 seconds on day 1
+993-69E-6EB						Start with 99 seconds on day 1
+205-FFE-E6B						Start with 20 seconds on day 2 instead of 40
+605-FFE-E6B						Start with 60 seconds on day 2
+995-FFE-E6B						Start with 99 seconds on day 2
+009-7AD-E6E						Infinite time (must switch off at end of day)
+3EC-29F-082 + 01C-2AF-E62 + 00C-2BF-E69	Start on day 2
+3EC-29F-082 + 00C-2BF-E69			Start on day 3
+3EC-29F-082 + 03C-2AF-E62 + 00C-2BF-E69	Start on day 4
+3EC-29F-082 + 04C-2AF-E62 + 00C-2BF-E69	Start on day 5
+The Incredible Crash Dummies is a trademark of Tyco Industries, Inc.
+
+Indiana Jones and the Last Crusade Game
+041-42F-F72	Start with 5 lives
+081-42F-F72	Start with 9 lives
+0A1-42F-F72	Start with 11 lives
+002-9FF-3BE	Infinite lives
+002-839-19E	Infinite whips
+00A-3EE-3BE	Infinite time--switch off codes at end of level to go on
+Indiana Jones and the Last Crusade is a trademark of Lucasfilm Ltd.
+
+Joe Montana Football Game (Version A)
+NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THE 'VERSION A'
+CODES DON'T WORK ON YOUR GAME, THEN TRY THE 'VERSION B'
+CODES (BELOW)
+01B-B4F-FEE				1st quarter lasts 1 min.
+02B-B4F-FEE				1st quarter lasts 2 min.
+06B-B4F-FEE				1st quarter lasts 6 min.
+001-A9F-E6E				Infinite time
+00E-E3E-19A				Always 1st down--turn code off when computer has ball
+02E-E5E-FEE				Only have 1 down to get 1st down
+03E-E5E-FEE				Only have 2 downs to get 1st down
+04E-E5E-FEE				Only have 3 downs to get 1st down
+06E-E5E-FEE				Have 5 downs to get 1st down
+001-B9B-A22 + 001-CDB-3B7	No scoring--turn off codes when you want to score
+Joe Montana Football is a trademark of Sega of America, Inc.
+
+Joe Montana Football Game (Version B)
+NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THE 'VERSION B'
+CODES DON'T WORK ON YOUR GAME, THEN TRY THE 'VERSION A'
+CODES (ABOVE)
+01B-BAF-F7E				1st quarter lasts 1 min.
+02B-BAF-F7E				1st quarter lasts 2 min.
+06B-BAF-F7E				1st quarter lasts 6 min.
+001-A6F-E6E				Infinite time
+*=Can switch on/off
+00E-EFE-19A				*Always 1st down
+02E-F1E-F7E				Only have 1 down to get 1st down
+03E-F1E-F7E				Only have 2 downs to get 1st down
+04E-F1E-F7E				Only have 3 downs to get 1st down
+06E-F1E-F7E				Have 5 downs to get 1st down
+001-C8B-A22 + 001-DCB-3B7	*No scoring
+Joe Montana Football is a trademark of Sega of America, Inc.
+
+KLAX Game
+003-28C-19A	Unlimited dropped tiles
+197-3CD-E6E	Start on wave 25, 30 or 35
+327-3CD-E6E	Start on wave 50, 55 or 60
+637-3CD-E6E	Start on wave 99--don't choose 104 or 109
+008-72D-193	Rand-omizes goal for completing each wave
+KLAX is a trademark of Atari Games.
+
+Krusty's Fun House Game
+028-52D-E66	Start with 2 lives
+058-52D-E66	Start with 5 lives
+098-52D-E66	Start with 9 lives
+21F-215-19D	Infinite lives
+008-5E5-C42	Infinite energy
+078-87D-C4E	Start with 7 pies
+0B8-87D-C4E	Start with 11 pies
+0F8-87D-C4E	Start with 15 pies
+21C-134-19D	Infinite pies
+Krusty's Fun House is a trademark of Twentieth Century Fox Film Corporation.
+
+Land of Illusion starring Mickey Mouse Game
+02F-31D-E66	Start with 3 lives
+04F-31D-E66	Start with 5 lives
+06F-31D-E66 Start with 7 lives
+08F-31D-E66 Start with 9 lives
+0AF-31D-E66 Start with 11 lives
+009-FAD-E6E Infinite lives
+002-4CE-E6E	Infinite time--turn codes off at end of each level to go on
+00C-337-E69	Infinite energy
+Land of Illusion starring Mickey Mouse is a trademark of Sega of America, Inc.
+
+Lemmings Game
+00D-34D-19E	Infinite use of all types of lemmings
+009-FFF-3BE	Infinite time--counter still counts down--turn codes off to complete level
+3E8-57C-082 + 3E8-59C-805 + 648-5AC-E64	1 lemming equals 100 (you can nuke the rest of them if you want)
+Lemmings is a trademark of Psygnosis Limited.
+
+The Lucky Dime Caper starring Donald Duck Game
+047-B1F-E66	Start with 4 lives
+067-B1F-E66	Start with 6 lives
+087-B1F-E66	Start with 8 lives
+000-93D-E69	Infinite lives
+*=Don't pick up stars, ignore counter
+047-E0E-E6E	*Start with 5 energy units
+067-E0E-E6E	*Start with 7 energy units
+087-E0E-E6E	*Start with 9 energy units
+21C-04E-91D	Infinite energy
+219-B3E-91D	After Donald loses 1 energy unit he is invincible
+The Lucky Dime Caper starring Donald Duck and related names are trademarks 
+of The Walt Disney Company
+
+The Majors: Pro Baseball Game
+Can switch codes on/off
+003-91C-19A	No strikeouts
+043-93C-E66 4 strikes and you're out
+063-93C-E66 6 strikes and you're out
+003-56C-19A	1 ball and you walk
+The Majors: Pro Baseball is a trademark of Sega.
+
+Ninja Gaiden Game
+C90-CBE-2A2	Infinite energy
+009-439-F79	Infinite lives
+011-EDF-E66	Start with 1 life
+051-EDF-E66	Start with 5 lives
+081-EDF-E66	Start with 8 lives
+021-6CF-E6E	Start on act 2 (Smuggling)
+031-6CF-E6E	Start on act 3 (Skyscraper)
+041-6CF-E6E	Start on act 4, part 1 (Counterattack)
+051-6CF-E6E	Start on act 4, part 2 (Counterattack)
+061-6CF-E6E	See end credits
+C35-F6F-E61	Infinite time
+834-D7F-E60	Start timer at 399
+854-D7F-E60	Start timer at 599
+000-C7E-B30	Almost invincible
+3E2-07C-082 + 012-08C-C46 + 002-09C-A21	Kill most level bosses with 1 hit
+665-64F-E64	Slow motion!
+Ninja Gaiden is a trademark of Tecmo, Ltd.
+
+Olympic Gold Barcelona Ô92 Game
+Archery codes:
+0A6-08B-F72	Start with 10 arrows
+0F6-08B-F72	Start with 15 arrows
+146-08B-F72	Start with 20 arrows
+009-A7B-3BE	Infinite arrows
+005-6EF-3BA	Infinite time
+Olympic Gold Barcelona Ô92 is a trademark of U.S. Gold, Inc.
+
+Out Run Europa Game
+007-6BD-E6E	Infinite time
+00C-8EF-19E	Infinite turbos
+054-27F-C42	Start with 8 shields
+024-27F-C42	Start with 5 shields
+007-E4E-19E	Infinite ammo
+Out Run Europa is a trademark of Sega Enterprises, Ltd.
+
+Pac-Man Game
+027-9C6-E66	Start with 3 lives
+057-9C6-E66	Start with 5 lives
+077-9C6-E66	Start with 7 lives
+00A-896-19E	Infinite lives
+008-396-4C6	Collect power pill and ghosts stay blue until eaten
+Pac-Man is a trademark of Namco Ltd.
+
+Paperboy Game
+012-3CF-E66	Start with 2 lives
+062-3CF-E66	Start with 7 lives
+092-3CF-E66	Start with 10 lives
+00C-57F-19E	Infinite lives
+052-41F-C42	Start with 5 papers
+0F2-41F-C42	Start with 15 papers
+142-41F-C42	Start with 20 papers
+00C-6C9-19E	Infinite papers
+Paperboy is a trademark of Atari Games.
+
+Pengo Game
+00C-F9D-E6E	Stop timer (gives maximum bonus pts.) and keep Sno-Bee eggs flashing
+020-85F-F7E	Start with 2 lives
+070-85F-F7E	Start with 7 lives
+090-85F-F7E	Start with 9 lives
+007-3EF-3BE	Infinite lives
+0A0-8AF-E6E	Start on act 10
+130-8AF-E6E	Start on act 20
+280-8AF-E6E	Start on act 40
+400-8AF-E6E	Start on act 64
+Pengo and related names are trademarks of Sega.
+
+Predator 2 Game
+00F-D2E-3BE	Infinite lives
+001-8EE-19E	Infinite ammo--all weapons
+7F2-38D-911 + 7B2-3CD-197 + 012-33D-E66	Start on Level 2
+7F2-38D-911 + 7B2-3CD-197 + 022-33D-E66	Start on Level 3
+7F2-38D-911 + 7B2-3CD-197			Start on Level 4
+7F2-38D-911 + 7B2-3CD-197 + 042-33D-E66	Start on Level 5
+7F2-38D-911 + 7B2-3CD-197 + 052-33D-E66	Start on Level 6
+7F2-38D-911 + 7B2-3CD-197 + 062-33D-E66	Start on Level 7
+7F2-38D-911 + 7B2-3CD-197 + 072-33D-E66	See end credits
+Predator 2 is a trademark of Twentieth Century Fox Film Corporation.
+
+Prince of Persia Game
+If you lose a life and the Prince disappears, switch codes off and then on and he 
+will reappear.
+004-03B-19E	Infinite time
+2D2-08F-19A	45-min. game
+142-08F-19A	20-min. game
+0A2-08F-19A	10-min. game
+*=Additional health units only show up when you enter game
+081-38C-E66 *Start with more health units--select options screen, move 
+cursor down to health units, press 1 button 3x for 6 health units, 4x for 7 health 
+units, 5x for 8 health units (maximum)
+001-E9E-3BE	Don't lose health units when you drop off some ledges--you do lose additional units but won't go below 3
+049-4ED-E66	Start on level 2
+059-4ED-E66	Start on level 3
+069-4ED-E66	Start on level 4
+079-4ED-E66	Start on level 5
+089-4ED-E66	Start on level 6
+099-4ED-E66	Start on level 7
+0A9-4ED-E66	Start on level 8
+0B9-4ED-E66	Start on level 9
+0C9-4ED-E66	Start on level 10
+0D9-4ED-E66	Start on level 11
+0E9-4ED-E66	Start on level 12
+0F9-4ED-E66	Start on level 13
+109-4ED-E66	Walk all the way to the left to see ending
+Prince of Persia is a trademark of Jordan Mechner.
+
+R.C. Grand Prix Game
+2DD-68D-19A	1st race is 0:45 instead of 1:00
+78D-68D-19A	1st race is 2:00
+FFD-68D-19A	1st race is 4:15
+2DD-69D-803	2nd race is 0:45 instead of 1:30
+78D-69D-803	2nd race is 2:00
+FFD-69D-803	2nd race is 4:15
+2DD-6AD-A2B	3rd race is 0:45 instead of 1:20
+78D-6AD-A2B	3rd race is 2:00
+FFD-6AD-A2B	3rd race is 4:15
+2DD-6BD-E60	4th race is 0:45 instead of 2:00
+78D-6BD-E60	4th race is 2:00
+FFD-6BD-E60	4th race is 4:15
+3EB-94F-80E + FFB-95F-193	Time for all races is 4:15
+000-BFC-5DD + 000-C0C-A23	Items are free if you have enough money
+R.C. Grand Prix is a trademark of Absolute Entertainment, Inc.
+
+Revenge of Drancon Game
+05D-DDF-E66	Start with 5 lives
+07D-DDF-E66	Start with 7 lives
+0CD-DDF-E66 	Start with 12 lives
+195-DDF-E66 	Start with 25 lives
+325-DDF-E66 	Start with 50 lives
+635-DDF-E66 	Start with 99 lives
+055-649-D5A	Start with 5 health/vitality units
+085-649-D5A	Start with 8 health/vitality units
+*=Don't grab any fruit
+195-649-D5A	*Start with 25 health/vitality units
+325-649-D5A	*Start with 50 health/vitality units
+635-649-D5A	*Start with 99 health/vitality units
+Revenge of Drancon is a trademark of Sega of America, Inc.
+
+Shinobi Game
+21F-055-2A2	Infinite energy
+006-06D-3BE	Infinite lives
+06B-75C-F72	Start with 6 lives
+08B-75C-F72	Start with 8 lives
+09B-75C-F72	Start with 9 lives
+21E-BA5-2A2	On highway stage, jump onto road and stop traffic
+Shinobi is a trademark of Sega of America, Inc.
+
+Shinobi II The Silent Fury Game
+052-50F-F7A	Start with 4 energy bars
+072-50F-F7A	Start with 6 energy bars
+0A2-50F-F7A	Start with 9 energy bars--ignore counter
+21A-41C-2A2	Infinite energy
+008-30D-3BE	Infinite ninjitsu magic
+032-58F-F7A	Start with 4 lives
+062-58F-F7A	Start with 7 lives
+092-58F-F7A	Start with 10 lives
+00B-A0C-3BE	Infinite lives
+Shinobi II The Silent Fury is a trademark of Sega.
+
+The Simpsons: Bart Vs the Space Mutants Game
+002-D09-E6E				Infinite coins
+009-5DC-E6E				Infinite time
+21D-18B-2A2 + 05E-A3E-A2A	Start with 5 coins
+15E-A3E-A2A + 21D-18B-2A2	Start with 15 coins
+21D-18B-2A2 + 20E-A3E-A2A	tart with 20 coins
+The Simpsons: Bart Vs the Space Mutants is a trademark of Twentieth Century 
+Fox Film Corporation.
+
+Slider Game
+023-46F-F7A	Start with 3 lives
+073-46F-F7A	Start with 8 lives
+0B3-46F-F7A	Start with 12 lives
+007-01F-19E	Infinite lives
+00B-F6E-E65	Infinite time (ignore counter)
+Slider is a trademark of Sega of America, Inc.
+
+Sonic the Hedgehog Game--Version 0
+NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THESE CODES DON'T 
+WORK ON YOUR GAME, TRY THE 'VERSION 1' CODES (PAGE 63)
+007-01A-3BE	Infinite lives
+*=Ring counter goes back to zero at each 100 points, but you get an extra life each time
+020-54A-E6E	*Rings worth 2 points
+030-54A-E6E	*Rings worth 3 points
+040-54A-E6E	*Rings worth 4 points
+050-54A-E6E	*Rings worth 5 points
+060-54A-E6E	*Rings worth 6 points
+070-54A-E6E	*Rings worth 7 points
+080-54A-E6E	*Rings worth 8 points
+3A0-21C-2A2	Never lose rings
+003-F8C-3B7	Stop timer
+013-7DE-E66	Start with 1 life
+053-7DE-E66	Start with 5 lives
+093-7DE-E66	Start with 9 lives
+Sonic the Hedgehog is a trademark of Sega of America, Inc.
+
+Sonic the Hedgehog Game--Version 1
+NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THESE CODES DON'T 
+WORK ON YOUR GAME, TRY THE 'VERSION 0' CODES (ABOVE)
+003-8CE-5D4 + 013-88E-91A	Start on Green Hill Zone, part 2
+003-8CE-5D4 + 023-88E-91A	Start on Green Hill Zone, part 3
+003-8CE-5D4 + 033-88E-91A	Start on Bridge, part 1
+003-8CE-5D4 + 043-88E-91A	Start on Bridge, part 2
+003-8CE-5D4 + 053-88E-91A	Start on Bridge, part 3
+003-8CE-5D4 + 063-88E-91A	Start on Jungle, part 1
+003-8CE-5D4 + 073-88E-91A	Start on Jungle, part 2
+003-8CE-5D4 + 083-88E-91A	Start on Jungle, part 3
+003-8CE-5D4 + 093-88E-91A	Start on Labyrinth part 1
+003-8CE-5D4 + 0A3-88E-91A	Start on Labyrinth part 2
+003-8CE-5D4 + 0B3-88E-91A	Start on Labyrinth part 3
+003-8CE-5D4 + 0C3-88E-91A	Start on Scrap Brain, part 1
+003-8CE-5D4 + 0D3-88E-91A	Start on Scrap Brain, part 2
+003-8CE-5D4 + 0E3-88E-91A	Start on Scrap Brain, part 3
+003-8CE-5D4 + 0F3-88E-91A	Start on Sky Base, part 1
+2A2-86A-6E2				Don't lose breath underwater
+Sonic the Hedgehog is a trademark of Sega of America, Inc.
+
+Sonic the Hedgehog 2 Game
+009-04F-3BE				Infinite lives
+A78-92C-19E				Invincible after 1 ring--except on act 3
+026-5ED-E6E				Each ring worth 2 points
+036-5ED-E6E				Each ring worth 3 points
+046-5ED-E6E				Each ring worth 4 points
+056-5ED-E6E				Each ring worth 5 points
+066-5ED-E6E				Each ring worth 6 points
+076-5ED-E6E				Each ring worth 7 points
+086-5ED-E6E				Each ring worth 8 points
+3A7-E4C-2A2				Don't lose rings when hit
+012-B8D-E66				Start with 1 life
+052-B8D-E66				Start with 5 lives
+092-B8D-E66				Start with 9 lives
+001-12D-3B7				Stop timer
+3E2-E4D-3B4 + 012-E5D-E69	Start on Act 2
+3E2-E4D-3B4 + 022-E5D-E69	Start on Act 3
+Sonic the Hedgehog 2 is a trademark of SEGA.
+
+Space Harrier Game
+040-8DF-E62						Start with 5 lives
+060-8DF-E62						Start with 7 lives
+080-8DF-E62 					Start with 9 lives
+21A-63D-2A2						Infinite lives
+If you don't see yourself on screen, press right arrow.
+*=Practice codes only. Switch off to go on to next level
+025-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 2
+035-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 3
+045-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 4
+065-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 5
+075-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 6
+0A5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 7
+0B5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 8
+0D5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 9
+0E5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 10
+0F5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 11
+115-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 12-1
+125-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 12-2
+135-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 12-3
+145-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 12-4
+165-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 12-5
+175-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 12-6
+185-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Start on stage 12-7
+195-CCE-B3E + 005-C9E-6EA + 005-CAC-E62	*Watch ending
+004-A6E-3BE						Floor doesn't move
+Space Harrier is a trademark of Sega of America, Inc.
+
+Streets of Rage Game
+027 3CF E66	Start with 2 lives
+057 3CF E66	Start with 5 lives
+087 3CF E66	Start with 8 lives
+3A9-667-2A2	Infinite time
+*=First section of round only
+090-6E7-F7A				*Start with 90 seconds instead of 40 in Round 1
+020-6E7-F7A				*Start with 20 seconds in Round 1
+090-737-F7E				*Start with 90 seconds instead of 50 in Rounds 2 thru 4
+020-737-F7E				*Start with 20 seconds in Rounds 2 thru 4
+090-787-F7E				*Start with 90 seconds instead of 50 in Round 5
+020-787-F7E				*Start with 20 seconds in Round 5
+008-DD6-19E				Infinite lives
+009-0A6-3B7				Infinite energy
+027-3CF-E66				Start with 2 lives
+057-3CF-E66				Start with 5 lives
+087-3CF-E66				Start with 8 lives--ignore counter
+677-CC9-913				Start on Round 2
+677-CC9-913 + 027-CA9-E6E	Start on Round 3
+677-CC9-913 + 037-CA9-E6E	Start on Round 4
+677-CC9-913 + 047-CA9-E6E	Start on Round 5
+Streets of Rage is a trademark of SEGA.
+
+Super Golf Game
+21F-4CE-19D	Turn codes on and bad shots won't be scored
+00F-16C-3BE	Take points on chr select and put them into point bin (but doesn't take them off your set value)
+AF2-83E-08F	No wind
+02F-6DF-E6E	Start on hole 2
+03F-6DF-E6E	Start on hole 3
+04F-6DF-E6E	Start on hole 4
+05F-6DF-E6E	Start on hole 5
+06F-6DF-E6E	Start on hole 6
+07F-6DF-E6E	Start on hole 7
+08F-6DF-E6E	Start on hole 8
+09F-6DF-E6E	Start on hole 9
+0AF-6DF-E6E	Start on hole 10
+0BF-6DF-E6E	Start on hole 11
+0CF-6DF-E6E	Start on hole 12
+0DF-6DF-E6E	Start on hole 13
+0EF-6DF-E6E	Start on hole 14
+0FF-6DF-E6E	Start on hole 15
+10F-6DF-E6E	Start on hole 16
+11F-6DF-E6E	Start on hole 17
+12F-6DF-E6E	Start on hole 18
+Super Golf is a trademark of Sage's Creation, Inc.
+
+Super Off-Road Game
+05A-D8F-80E	Start with 5 nitros
+0AA-D8F-80E	Start with 10 nitros
+0FA-D8F-80E	Start with 15 nitros
+215-B0C-91D	Infinite nitros
+001-98B-A2C	Almost infinite money
+004-50E-A22	Infinite time--ignore counter
+Super Off-Road is a trademark of The Leland Corporation.
+
+Super Smash TV Game
+001-76D-19E	Infinite lives
+050-809-F76	Start with 5 lives
+080-809-F76	Start with 8 lives
+0A0-809-F76	Start with 10 lives
+C93-605-91D	Green men freeze
+051-299-F76	Start with 5 credits
+081-299-F76	Start with 8 credits
+0A1-299-F76	Start with 10 credits
+Super Smash TV is a trademark of Williams Electronics Games, Inc.
+
+Super Space Invaders Game
+02A-E1C-E66	Start with 2 lives
+05A-E1C-E66	Start with 5 lives
+07A-E1C-E66	Start with 7 lives
+00F-D5B-3BE	Infinite lives
+02B-09E-E66	Start with 3 shields
+05B-09E-E66	Start with 6 shields
+07B-09E-E66 Start with 8 shields
+007-43E-E6E	Infinite shields--except when stomped
+Super Space Invaders is a trademark of Taito Corp.
+
+Taz-Mania Game
+031-CFD-F7E	Start level 1 with 3 lives
+071-CFD-F7E	Start level 1 with 7 lives
+091-CFD-F7E	Start level 1 with 9 lives
+00E-32E-3B7	Infinite lives
+Taz-Mania is a trademark of Warner Bros Inc.
+
+The Terminator Game
+3AD-87C-2A2	Invincibility
+*=Right amount of health does not appear until you get hit once.
+4B7-72E-7FB	Start with about 75% health
+327-72E-7FB	Start with about 50% health
+197-72E-7FB	Start with about 25% health
+002-A7A-19E	Infinite time
+The Terminator is a trademark of Cinema Ô84. A Greenberg Brothers Partnership.
+
+Tom and Jerry Game
+C90-AFA-2A2	Infinite energy
+0A8-D4E-C4A	Start with 5 hearts
+0C8-D4E-C4A	Start with 6 hearts
+04B-E77-F76	Start with 4 continues
+08B-E77-F76	Start with 8 continues
+00D-E56-19E	Infinite continues
+Tom and Jerry is a trademark of Turner Entertainment Co.
+
+Vampire, Master of Darkness Game
+00B-3AB-E6E						Infinite time
+022-727-E66						Start with 2 lives
+072-727-E66						Start with 7 lives
+092-727-E66						Start with 9 lives
+3A7-02B-2A2						Infinite energy--switch off codes if you get stuck
+3A1-2AE-2A2						Infinite lives
+3A3-23D-2A2						Infinite ammo for special weapons
+3C1-32E-5D4						Die and get special weapons given to you
+211-36E-2A2 + 211-39E-2A2			Don't lose special weapons after dying
+3E6-FFB-2AA + 207-00B-E6E + 007-01B-5D4	Invincibility
+Vampire, Master of Darkness is a trademark of SEGA.
+
+Wimbledon Tennis Game
+005-E0E-C45	Computer can't score
+09B-515-D56	Tour mode 9 distribution points
+19B-515-D56	Tour mode 25 distribution points
+006-06E-C45	No games scored by computer
+076-05E-F7A	Most games are given to you
+Wimbledon Tennis is a trademark of All England Lawn Tennis and Croquet Club, 
+Wimbledon.
+
+Wonderboy Game
+05D-DDF-E66	Start with 5 lives
+08D-DDF-E66	Start with 8 lives
+0CD-DDF-E66 Start with 12 lives
+055-7E9-D5A	Start with 5 health/vitality units
+085-7E9-D5A	Start with 8 health/vitality units
+Wonderboy is a trademark of SEGA.
+
+Woody Pop Game (Version A)
+NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THE 'VERSION A' 
+CODES DON'T WORK ON YOUR GAME, THEN TRY THE 'VERSION B' 
+CODES (BELOW)
+009-2AE-E6D	Infinite balls
+0F7-34F-E66	Start with 15 balls
+077-34F-E66	Start with 7 balls
+017-34F-E66	Start with 1 ball
+Woody Pop is a trademark of Sega of America, Inc.
+
+Woody Pop Game (Version B)
+NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THE 'VERSION B' 
+CODES DON'T WORK ON YOUR GAME, THEN TRY THE 'VERSION A' 
+CODES (ABOVE)
+009-3FE-E6D	Infinite balls
+0F7-16F-E66	Start with 15 balls
+077-16F-E66	Start with 7 balls
+017-16F-E66	Start with 1 ball
+Woody Pop is a trademark of Sega of America, Inc.

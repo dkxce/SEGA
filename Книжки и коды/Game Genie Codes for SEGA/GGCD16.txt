@@ -1,0 +1,99 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+CONTENTS OF THIS FILE:
+
+Ecco 2: The Tides of Time(tm) Game
+Bonkers: Wax Up!(tm) Game
+Madden NFL '95(tm) Game
+The Itchy & Scratchy Game(tm) Game
+NHL Hockey(tm) Game
+
+Ecco 2: The Tides of Time(tm) Game
+1.	014-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Vents of Medusa
+2.	024-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Maze of Stone
+3.	034-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Sea of Darkness
+4.	044-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on DDD Swimming
+5.	054-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Skyway
+6.	064-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Tube of Medusa
+7.	074-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on DDD Swimming #2
+8.	084-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Getaway
+9.	094-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Asterite Cave
+10.	0A4-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on The Eye
+11.	0B4-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Deep Ridge
+12.	0C4-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Sea of Birds
+13.	0D4-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Convergence
+14.	0E4-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on DDD Swimming #3
+15.	0F4-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Vortex Future
+16.	104-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Globe Holder
+17.	114-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Convergence #2
+18.	124-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on DDD Swimming #4
+19.	134-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on New Machine
+20.	144-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Vortex Queen
+21.	154-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Semi-ending Part 1
+22.	164-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Semi-ending Part 2
+23.	174-20B-C4A + 884-22B-2A2 + 004-27B-3BA	Start on Atlantis
+24.	366-8C6-5DD + 3E6-8E6-D56	Infinite air
+25.	109-CF6-6E6	Jumping out of the water sets your energy to half
+26.	21D-3C7-6E2	Infinite energy
+27.	006-9FB-C4A	Most fish dont give you energy
+Ecco 2: The Tides of Time is a trademark of SEGA
+
+Bonkers: Wax Up!(tm) Game
+1.	009-87F-E66	Start with 1/4 energy
+2.	019-87F-E66	Start with 1/2 energy
+3.	213-6A5-6E2	Infinite energy
+4.	3AB-286-2A2	Infinite lives
+5.	00B-746-E66	Start with 1/4 energy after first life
+6.	01B-746-E66	Start with 1/2 energy after first life
+7.	000-045-197	Dont flash after getting hit
+8.	990-045-197	Flash a lot longer after getting hit
+9.	00F-4B7-3BE + 00F-4F7-3BA	1 hit and you become invincible
+10.	C35-285-E61	Almost invincible
+11.	009-8CF-E66	Start with 1 life
+12.	049-8CF-E66	Start with 5 lives
+13.	099-8CF-E66	Start with 10 lives
+Bonkers Wax Up is a trademark of Walt Disney Co.
+
+Madden NFL '95(tm) Game
+1.	011-7FB-E66	Only have 2 downs
+2.	001-7DB-3BA	Infinite downs
+3.	023-9EB-E6E	Start on down 2
+4.	033-9EB-E6E	Start on down 3
+5.	043-9EB-E6E	Start on down 4
+6.	00B-287-19E	Infinite play clock—Switch off when the computer has the ball
+7.	00B-6B7-19E	Infinite game time
+Madden NFL '95 is a trademark of Electronic Arts.
+
+The Itchy & Scratchy Game(tm) Game
+1.	002-76F-B30	Start with 4 lives and 4 continues
+2.	012-72F-F7A	Start with 1 life
+3.	072-72F-F7A	Start with 7 lives
+4.	092-72F-F7A	Start with 9 lives
+5.	0F2-72F-F7A	Start with 15 lives
+6.	3EE-3D5-B31 + 01E-3E5-F7E	Start with very little energy on your first life
+7.	3AA-CAB-2A2	Infinite energy
+8.	3E9-14E-4CA + 3E5-54C-4CA	Almost Invincible
+9.	3A2-E2B-2A2	Infinite lives
+Itchy & Scratchy are trademarks of Twentieth Century Fox Film Corporation.
+
+NHL Hockey(tm) Game
+1.	009-D3B-E6E	Infinite game time
+2.	029-D3B-E6E	Timer counts by 2
+3.	02E-40F-A2A	Each period is 2 minutes long
+4.	01E-40F-A2A	Each period is 1 minute long
+5.	99E-40F-A2A	Each period is 99 minute long
+6.	00F-BE8-19A	No scoring
+7.	00F-2E8-B39 + 010-53A-F7A	Always 1st period
+NHL Hockey is a trademark of Electronic Arts.

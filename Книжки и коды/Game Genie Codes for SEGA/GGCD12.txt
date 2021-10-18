@@ -1,0 +1,40 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+Beavis & Butthead(tm) Game
+1.	01B-0BD-E66	Start with 1 life
+2.	05B-0BD-E66	Start with 5 lives
+3.	09B-0BD-E66	Start with 9 lives
+4.	00B-5ED-3B7	Almost infinite bulbs
+5.	01B-06D-E66	Start with 1 bulb
+6.	05B-06D-E66	Start with 5 bulbs
+7.	09B-06D-E66	Start with 9 bulbs
+8.	00B-0FD-5D4	Lose all your bulbs on the 1st level and move on to the next level
+Beavis & Butthead is a trademark of Viacom International Inc.
+
+Deep Duck Trouble Starring Donald Duck(tm) Game
+1.	016-DBF-E66	Start with 1 life
+2.	0A6-DBF-E66	Start with 10 lives
+3.	0F6-DBF-E66	Start with 15 lives
+4.	016-E8F-E66	Start with 1 gem
+5.	0A6-E8F-E66	Start with 10 gems
+6.	0F6-E8F-E66	Start with 15 gems
+7.	886-E4F-5D4	Start on Inlet
+8.	3A9-319-2A2	Infinite lives
+9.	014-35E-E66	Get 1 star after you lose a life
+10.	0A4-35E-E66	Get 10 stars after you lose a life
+11.	0F4-35E-E66	Get 15 stars after you lose a life
+12.	3A0-5D5-2A2	Almost infinite stars
+13.	C90-C65-082	Almost invincible
+Donald Duck is a trademark of the Walt Disney Company

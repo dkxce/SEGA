@@ -1,0 +1,57 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+NBA JAM Tournament Edition(tm) Game
+1.	7E3-859-3B7	Infinite turbo when on offense
+2.	7E3-A59-3B7	Turbo doesn't recharge
+3.	00D-2EA-19E	No shot clock
+5.	00A-CE6-E62	CPU's 2 pt. shots are worth 0
+6.	01A-CE6-E62	CPU's 2 pt. shots are worth 1
+7.	03A-CE6-E62	CPU's 2 pt. shots are worth 3
+8.	04A-CE6-E62	CPU's 2 pt. shots are worth 4
+9.	05A-CE6-E62	CPU's 2 pt. shots are worth 5
+10.	06A-CE6-E62	CPU's 2 pt. shots are worth 6
+11.	07A-CE6-E62	CPU's 2 pt. shots are worth 7
+12.	08A-CE6-E62	CPU's 2 pt. shots are worth 8
+13.	09A-CE6-E62	CPU's 2 pt. shots are worth 9
+16.	217-02D-6E2	MASTER CODE--MUST BE ENTERED FOR THE FOLLOWING CODES TO WORK
+17.	017-03D-B3E	Character number one is Bill Clinton
+18.	027-03D-B3E	Character number one is Hillary Clinton
+19.	037-03D-B3E	Character number one is Suns Gorilla
+20.	047-03D-B3E	Character number one is Heavy D
+21.	057-03D-B3E	Character number one is Jazzy Jeff
+22.	067-03D-B3E	Character number one is Fresh Prince
+23.	077-03D-B3E	Character number one is Thomas
+24.	087-03D-B3E	Character number one is Cunningham
+25.	097-03D-B3E	Character number one is Bird
+26.	0A7-03D-B3E	Character number one is Mike D
+27.	0B7-03D-B3E	Character number one is ADROCK
+28.	0C7-03D-B3E	Character number one is MCA
+29.	0D7-03D-B3E	Character number one is Hugo
+30.	0E7-03D-B3E	Character number one is Crunch
+31.	017-04D-D5D	Character number two is Bill Clinton
+32.	027-04D-D5D	Character number two is Hillary Clinton
+33.	037-04D-D5D	Character number two is Suns Gorilla
+34.	047-04D-D5D	Character number two is Heavy D
+35.	057-04D-D5D	Character number two is Jazzy Jeff
+36.	067-04D-D5D	Character number two is Fresh Prince
+37.	077-04D-D5D	Character number two is Thomas
+38.	087-04D-D5D	Character number two is Cunningham
+39.	097-04D-D5D	Character number two is Bird
+40.	0A7-04D-D5D	Character number two is Mike D
+41.	0B7-04D-D5D	Character number two is ADROCK
+42.	0C7-04D-D5D	Character number two is MCA
+43.	0D7-04D-D5D	Character number two is Hugo
+44.	0E7-04D-D5D	Character number two is Crunch
+NBA JAM Tournament Edition is a trademark of NBA Properties, Inc.

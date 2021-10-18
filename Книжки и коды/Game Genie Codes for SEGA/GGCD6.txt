@@ -1,0 +1,35 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, 
+NON-COMMERCIAL USE as long as it is not altered and all text 
+remains intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+DISNEY'S ALADDIN(tm) GAME
+1	012-9AD-F72	Start with 1/2 jewel in life gauge
+2	032-9AD-F72	Start with 1/2 maximum jewels in life gauge
+3	3AE-DDC-2A2	Don't take damage from most hits
+4	00F-46C-803	No blinking after being hit
+5	CCF-46C-803	Longer blinking after being hit
+6	3A2-ACE-2A2	Infinite blinking after being hit
+7	C92-01D-082	Invisibility
+8	002-0BD-E6E	Temporary invisibility when you hit something
+9	3EB-8DB-2A2 + 01B-8EB-F7A + 00B-8FB-E6D	Special options screen
+Disney's Aladdin is a trademark of The Walt Disney Company.
+
+PINBALL DREAMS(tm) GAME
+1	C9B-64C-6EE	Can't tilt
+2	01C-E2F-B3D	Infinite balls
+3	01C-E6F-E66	1 ball
+4	05C-E6F-E66	5 balls
+5	0FC-E6F-E66	15 balls
+6	3E0-E5E-2A2 + 040-E6E-4CE + 000-E7E-B3D	Always start with 5x bonus (collecting extra onuses may reduce your bonus)
+Pinball Dreams is a trademark of 21st Century Entertainment Ltd.
+

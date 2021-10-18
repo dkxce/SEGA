@@ -1,0 +1,28 @@
+GAME GENIE(tm) FOR SEGA(tm) GAME GEAR(tm) CODES
+
+(c) 1994 Lewis Galoob Toys, Inc. All Rights Reserved.
+Excerpts from Game Genie(tm) Code Updates made available for the 
+private use of Game Genie owners. NO COMMERCIAL USE WITHOUT 
+AUTHORIZATION. This file may be freely distributed for PRIVATE, NON-
+COMMERCIAL USE as long as it is not altered and all text remains 
+intact.
+This product is licensed by Sega of America, Inc. for use with the 
+Sega(tm) Game Gear(tm) System. Sega and Game Gear are trademarks 
+of Sega Enterprises, Ltd. Game titles are trademarks of their 
+respective owners. Game Genie is a trademark of Lewis Galoob Toys, 
+Inc. U.S. Patent No. 5,112,051.
+
+
+MARVEL COMICS' X-MEN: THE GAMESMASTER'S LEGACY(tm) GAME
+1	002-644-195	Start with no mutant power
+2	772-644-195	Start with 1/2 mutant power
+3	3AA-2A7-2A2	Infinite mutant power
+4	14A-267-C42	Mutant power is used quicker
+5	3AA-BD7-2A2	Infinite energy
+6	AFA-BA7-2AA + 00A-BB7-E6E	One hit is fatal--most of the time
+7	012-634-195	Start with very little energy
+8	772-634-195	Start with 1/2 energy
+9	FFA-A97-2A2	Flash a lot longer after getting hit
+10	000-2F7-19E	1 hit and you're invisible
+11	000-2B7-806	Almost invincible
+Marvel, X-Men, and GamesMasters Legacy are trademarks of Marvel Entertainment Group, Inc.
