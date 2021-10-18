@@ -1,0 +1,3 @@
+# SEGA
+
+Sega Games Repository
