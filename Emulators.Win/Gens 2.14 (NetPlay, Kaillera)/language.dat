@@ -1,0 +1,273 @@
+[Russian]
+
+# MENU
+# Translated by Hawara the Lion
+# Смерть чеченцам!
+####################################################
+
+File = &Файл
+Graphic = &Графика
+CPU = &ЦПУ
+Sound = &Звук
+Option = &Настройки
+Help = &Помощь
+
+Open Rom = &Открыть ROM
+Free Rom = &Закрыть ROM
+Boot CD = &Запуск CD
+Netplay = &Сетевая
+Game Genie = &Game Genie
+Load State as = &Загрузить из файла...
+Save State as = &Сохранить в файл...
+Load State = Быстро &Загрузить
+Save State = Быстро &Сохранить
+Change State = С&менить Сохраненку
+Quit = &Выход
+Rom History = &Использованные ROMы
+    
+Windowed = &Окнонный
+Full Screen = &На весь экран
+Triple Buffer = &Тройная буферизация
+Stretch = &Растянуть
+VSync = &VSync
+Color = Настройка цветов...
+Render = &Обработчик
+Frame Skip = &Пропуск кадров
+Sprite Limit = &Ограничение спрайтов
+Screen Shot = Снимок Э&крана
+
+Normal = &Нормальный [1x]
+Double = &Двойной [2x]
+Interpolated = &Растянутый
+Scanline = &Черезполосица
+25% Scanline = &Черезполосица 25%
+50% Scanline = &Черезполосица 50%
+Interpolated Scanline = &Растянутая Черезполосица
+Interpolated 50% Scanline = Растянутая Черезполосица 50%
+Interpolated 25% Scanline = Растянутая Черезполосица 25%
+2xSAI (Kreed) = 2xSAI [&Kreed]
+
+Auto = &Авто
+
+Debug = &Дебаг
+Country = &Страна
+Hard Reset = &Аппаратный сброс
+Reset 68K = Сброс &68000
+Reset Z80 = Сброс &Z80
+Reset main 68000 = Сброс &главного 68000
+Reset sub 68000 = Сброс &второго 68000
+Reset master SH2 = Сброс главного SH2
+Reset slave SH2 = Сброс второго SH2
+Perfect Synchro = &Идеальная синхр.
+
+Genesis - 68000 = &Genesis - 68000
+Genesis - Z80 = Genesis - &Z80
+Genesis - VDP = Genesis - &VDP
+SegaCD - 68000 = &SegaCD - 68000
+SegaCD - CDC = SegaCD - &CDC
+SegaCD - GFX = SegaCD - GF&X
+32X - main SH2 = 32X - главн. SH2
+32X - sub SH2 = 32X - втор. SH2
+32X - VDP = 32X - VDP
+
+Auto detect = &Авто Выбор
+Japan (NTSC) = &Япония (NTSC)
+USA (NTSC) = &США (NTSC)
+Europe (PAL) = &Европа (PAL)
+Japan (PAL) = Япония (PAL)
+Auto detection order = &Порядок Авто Выбора
+
+Rate = &Частота
+Stereo = &Стерео
+
+Start Dump = Запись в WAV
+Stop Dump = Стоп в WAV
+Start GYM Dump = Запись в GYM
+Stop GYM Dump = Стоп в GYM
+
+YM2612 High Quality = Высок. качества  YM2612 
+    
+Misc = &Разное...
+Joypad = &Джойстики...
+Directories = &Папки...
+Bios/Misc Files = Ф&айлы BIOSов ...
+Current CD Drive = Текущий CD-Привод
+No drive detected = Не нашёл CD-Привода :(
+Sega CD SRAM Size = Размер Sega CD SRAM 
+None = None
+Load config = &Загрузить Конфиг
+Save config as = &Сохранить Конфиг...
+
+File menu = &File Menu
+Graphics menu = &Graphics menu
+CPU menu = &CPU menu
+Sound menu = &Sound menu
+Options menu = &Options menu
+Mega/Sega CD = &Mega/Sega CD
+FAQ = &FAQ
+Shortcuts = &Default keys && Shortcuts
+About = &About
+
+Menu Language = &Русское Меню
+
+
+
+# MESSAGES
+#
+# Messages can be only translated in language which use 850 codepage caracteres
+# because there are displayed with a custom font.
+#
+# %d is used to represent a number
+#
+####################################################
+
+
+SLOT %d [EMPTY] = SLOT %d [EMPTY]
+SLOT %d [OCCUPIED] = SLOT %d [OCCUPIED]
+Frame skip set to Auto = Frame skip set to Auto
+Frame skip set to %d = Frame skip set to %d
+
+Vertical Sync Enabled = Vertical Sync Enabled
+Vertical Sync Disabled = Vertical Sync Disabled
+Stretched mode = Stretched mode
+Correct ratio mode = Correct ratio mode
+Force software blit for Full-Screen = Force software blit for Full-Screen
+Enable hardware blit for Full-Screen = Enable hardware blit for Full-Screen
+Sprite Limit Enabled = Sprite Limit Enabled
+Sprite Limit Disabled = Sprite Limit Disabled
+
+Render selected : NORMAL = Render selected : NORMAL
+Render selected : DOUBLE = Render selected : DOUBLE
+Render selected : INTERPOLATED = Render selected : INTERPOLATED
+Render selected : FULL SCANLINE = Render selected : FULL SCANLINE
+Render selected : 50% SCANLINE = Render selected : 50% SCANLINE
+Render selected : 25% SCANLINE = Render selected : 25% SCANLINE
+Render selected : INTERPOLATED SCANLINE = Render selected : INTERPOLATED SCANLINE
+Render selected : INTERPOLATED 50% SCANLINE = Render selected : INTERPOLATED 50% SCANLINE
+Render selected : INTERPOLATED 25% SCANLINE = Render selected : INTERPOLATED 25% SCANLINE
+Render selected : 2XSAI KREED'S ENGINE = Render selected : 2XSAI KREED'S ENGINE
+
+SegaCD normal mode = SegaCD normal mode
+SegaCD perfect synchro mode (SLOW) = SegaCD perfect synchro mode (SLOW)
+SegaCD SRAM cart removed = SegaCD SRAM cart removed
+SegaCD SRAM cart plugged (8 Kb) = SegaCD SRAM cart plugged (8 Kb)
+SegaCD SRAM cart plugged (16 Kb) = SegaCD SRAM cart plugged (16 Kb)
+SegaCD SRAM cart plugged (32 Kb) = SegaCD SRAM cart plugged (32 Kb)
+SegaCD SRAM cart plugged (64 Kb) = SegaCD SRAM cart plugged (64 Kb)
+
+Z80 Disabled = Z80 Disabled
+Z80 Enabled = Z80 Enabled
+DAC Disabled = DAC Disabled
+DAC Enabled = DAC Enabled
+Normal DAC sound = Normal DAC sound
+Improved DAC sound (voices) = Improved DAC sound (voices)
+YM2612 Disabled = YM2612 Disabled
+YM2612 Enabled = YM2612 Enabled
+PSG Disabled = PSG Disabled
+PSG Enabled = PSG Enabled
+Normal PSG sound = Normal PSG sound
+Improved PSG sound = Improved PSG sound
+High Quality YM2612 emulation = High Quality YM2612 emulation (slower)
+Normal YM2612 emulation = Normal YM2612 emulation
+PCM Sound Disabled = PCM Sound Disabled
+PCM Sound Enabled = PCM Sound Enabled
+CD Audio Sound Disabled = CD Audio Sound Disabled
+CD Audio Enabled = CD Audio Enabled
+Sound Disabled = Sound Disabled
+Sound Enabled = Sound Enabled
+
+Sound rate set to %d = Sound rate set to %d
+Mono sound = Mono sound
+Stereo sound = Stereo sound
+High quality sound (16 bits) = High quality sound (16 bits)
+Poor quality sound (8 bits) = Poor quality sound (8 bits)
+
+Europe system (50 FPS) = Europe system (50 FPS)
+USA system (60 FPS) = USA system (60 FPS)
+Japan system (50 FPS) = Japan system (50 FPS)
+Japan system (60 FPS) = Japan system (60 FPS)
+
+Genesis reseted = Genesis reset
+32X reseted = 32X reset
+SegaCD reseted = SegaCD reset
+68000 CPU reseted = 68000 CPU reset
+CPU Z80 reseted = CPU Z80 reset
+Main 68000 CPU reseted = Main 68000 CPU reset
+Sub 68000 CPU reseted = Sub 68000 CPU reset
+Master SH2 reseted = Master SH2 reset
+Slave SH2 reseted = Slave SH2 reset
+
+Fast Blur Enabled = Fast Blur Enabled
+Fast Blur Disabled = Fast Blur Disabled
+
+Communicating = Communicating ...
+
+
+
+# DIALOG TEXT
+#
+####################################################
+
+Informations GG = Информация про коды GG/Patch
+Game Genie info 1 = Поддерживаются и Game Genie и Patch коды.
+Game Genie info 2 = Выберите код, чтобы активировать его.
+Game Genie info 3 = Синтаксис для Game Genie кодов :  XXXX-XXXX
+Game Genie info 4 = Синтаксис для Patch кодов :  XXXXXX:YYYY    (address:data)
+Add code = Добавить &код
+Remove selected codes = &Убрать выделенные коды
+Desactive all codes = &Отключить все коды
+
+OK = &OK
+Apply = &Применить
+Default = &По умолчанию
+Cancel = &Отмена
+Close = &Закрыть
+Change = Сменить
+
+Auto Fix Checksum = Править CRC ROMа
+Auto Pause = Автопауза
+Fast Blur = Быстрое размытие
+Show Sega-CD LED = Показывать Sega-CD LED 
+Enable = Включить
+Double Sized = Двойной размер
+Transparency = Прозрачность
+Effect Color = Цвет Заставки
+System = Система
+FPS = FPS
+Message = Сообщение
+
+Contrast = Контраст
+Brightness = Яркость
+Greyscale = Уровень серого
+Invert = Обратить цвета
+
+Files configuration = Настройка файлов
+
+Setting Genesis bios file = Настройка biosов для Genesis
+Setting 32X bios files = Настройка biosов для 32X
+Setting SEGA CD bios files = Настройка biosов для SEGA CD
+Setting misc files = Настройка других файлов
+
+Genesis bios static = Genesis
+M68000 bios static = M68000
+M SH2 bios static = Master SH2
+S SH2 bios static = Slave SH2
+US bios static = США
+EU bios static = Европа
+JA bios static = Япония
+CGOffline static = CGOffline
+Manual static = Руководство
+
+Directories configuration = Настройка папок
+
+Save static = СОХРАНЕНКИ
+Sram static = ПАМЯТЬ SRAM
+Bram static = ПАМАЯТЬ BRAM
+Wav static = ЗАПИСЬ WAV
+Gym static = ЗАПИСЬ GYM
+Shot static = СНИМОК ЭКРАНА
+Patch static = ПАТЧ
+
+Controller info 1 = Игроки 1-B 1-C и 1-D включаются только когда подключен разветвитель джойстиков в порт 1
+Controller info 2 = Игроки 2-B 2-C и 2-D включаются только когда подключен разветвитель джойстиков в порт 2
+Controller info 3 = Совсем мало игр используют разветвитель джойстиков, поэтому используйте вохможности сохранять и загружать конфигурации. P.S. Всем привет от Хавары.
