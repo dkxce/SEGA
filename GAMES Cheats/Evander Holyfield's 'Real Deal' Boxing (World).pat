@@ -1,0 +1,15 @@
+AJWA-AA64	Always round 1
+BJWA-ACFN	Rounds are 1 minute long (1 of 2)
+BJNA-ACHW	Rounds are 1 minute long (2 of 2)
+BJWA-AEFN	Rounds are 2 minutes long (1 of 2)
+BJNA-AEHW	Rounds are 2 minutes long (2 of 2)
+BJWA-AJEN	Rounds are 4 minutes long (1 of 2)
+BJNA-AJHW	Rounds are 4 minutes long (2 of 2)
+BJWA-ANFN	Rounds are 6 minutes long (1 of 2)
+BJNA-ANHW	Rounds are 6 minutes long (2 of 2)
+BJWA-AWFN	Rounds are 9 minutes long (1 of 2)
+BJNA-AWHW	Rounds are 9 minutes long (2 of 2)
+CTRA-AA2L	Rounds never end
+RGKT-A6VW	Set up new career any way you want (1 of 3)
+TCKT-A4AN	Set up new career any way you want (2 of 3)
+TCKT-A4BR	Set up new career any way you want (3 of 3)
