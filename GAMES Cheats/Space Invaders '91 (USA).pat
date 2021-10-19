@@ -1,0 +1,65 @@
+AJ9T-AA60	Almost infinite shields (1 of 2)
+BBAT-AA86	Almost infinite shields (2 of 2)
+GBRA-AABR	Super crusher lasts 30 seconds
+BFRA-AABC	Use hyper laser 9 times
+ABRA-ATBG	Buster laser has 800 energy
+JBRA-AABE	Use homing bombs 40 times
+AE3A-AAEW	Start with 1 shield on 1st credit
+AN3A-AAEW	Start with 3 shields on 1st credit
+A63A-AAEW	Start with 7 shields on 1st credit
+BE3A-AAEW	Start with 9 shields on 1st credit
+AE6T-AAF8	Start with 1 shield instead of 5 after continue
+AN6T-AAF8	Start with 3 shields after continue
+A66T-AAF8	Start with 7 shields after continue
+BE6T-AAF8	Start with 9 shields after continue
+9T3A-BGMY	Start at Round 2 - Milky Way (1 of 3)
+963A-AAD2	Start at Round 2 - Milky Way (2 of 3)
+AE3A-AAD0	Start at Round 2 - Milky Way (3 of 3)
+9T3A-BGMY	Start at Round 3 - Merutas (1 of 3)
+963A-AAD2	Start at Round 3 - Merutas (2 of 3)
+AJ3A-AAD0	Start at Round 3 - Merutas (3 of 3)
+9T3A-BGMY	Start at Round 4 - Planet Dufa (1 of 3)
+963A-AAD2	Start at Round 4 - Planet Dufa (2 of 3)
+AN3A-AAD0	Start at Round 4 - Planet Dufa (3 of 3)
+9T3A-BGMY	Start at Round 5 - Moon (1 of 3)
+963A-AAD2	Start at Round 5 - Moon (2 of 3)
+AT3A-AAD0	Start at Round 5 - Moon (3 of 3)
+9T3A-BGMY	Start at Round 6 - Planet Venus (1 of 3)
+963A-AAD2	Start at Round 6 - Planet Venus (2 of 3)
+AY3A-AAD0	Start at Round 6 - Planet Venus (3 of 3)
+9T3A-BGMY	Start at Round 7 - Planet Solaia (1 of 3)
+963A-AAD2	Start at Round 7 - Planet Solaia (2 of 3)
+A23A-AAD0	Start at Round 7 - Planet Solaia (3 of 3)
+9T3A-BGMY	Start at Round 8 - Planet Lisubi (1 of 3)
+963A-AAD2	Start at Round 8 - Planet Lisubi (2 of 3)
+A63A-AAD0	Start at Round 8 - Planet Lisubi (3 of 3)
+9T3A-BGMY	Start at Round 9 - Planet Guraivas (1 of 3)
+963A-AAD2	Start at Round 9 - Planet Guraivas (2 of 3)
+BA3A-AAD0	Start at Round 9 - Planet Guraivas (3 of 3)
+9T3A-BGMY	Start at Round 10 - Planet Mars (1 of 3)
+963A-AAD2	Start at Round 10 - Planet Mars (2 of 3)
+BE3A-AAD0	Start at Round 10 - Planet Mars (3 of 3)
+9T3A-BGMY	Start at Round 11 - Planet Mercury (1 of 3)
+963A-AAD2	Start at Round 11 - Planet Mercury (2 of 3)
+BJ3A-AAD0	Start at Round 11 - Planet Mercury (3 of 3)
+9T3A-BGMY	Start at Round 12 - Planet Aluga (1 of 3)
+963A-AAD2	Start at Round 12 - Planet Aluga (2 of 3)
+BN3A-AAD0	Start at Round 12 - Planet Aluga (3 of 3)
+9T3A-BGMY	Start at Round 13 - Planet Laia (1 of 3)
+963A-AAD2	Start at Round 13 - Planet Laia (2 of 3)
+BT3A-AAD0	Start at Round 13 - Planet Laia (3 of 3)
+9T3A-BGMY	Start at Round 14 - Planet Bailam (1 of 3)
+963A-AAD2	Start at Round 14 - Planet Bailam (2 of 3)
+BY3A-AAD0	Start at Round 14 - Planet Bailam (3 of 3)
+9T3A-BGMY	Start at Round 15 - Planet Daruta (1 of 3)
+963A-AAD2	Start at Round 15 - Planet Daruta (2 of 3)
+B23A-AAD0	Start at Round 15 - Planet Daruta (3 of 3)
+9T3A-BGMY	Start at Round 16 - Planet Lamusa (1 of 3)
+963A-AAD2	Start at Round 16 - Planet Lamusa (2 of 3)
+B63A-AAD0	Start at Round 16 - Planet Lamusa (3 of 3)
+9T3A-BGMY	Start at Round 17 - Planet Ikuru (1 of 3)
+963A-AAD2	Start at Round 17 - Planet Ikuru (2 of 3)
+CA3A-AAD0	Start at Round 17 - Planet Ikuru (3 of 3)
+9T3A-BGMY	Start at Final Round - Doriasta (1 of 3)
+963A-AAD2	Start at Final Round - Doriasta (2 of 3)
+CE3A-AAD0	Start at Final Round - Doriasta (3 of 3)
