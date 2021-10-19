@@ -28,4 +28,3 @@ Sega Games Repository
 <img src="GAMES Box Covers/Theme Park (Europe).png"/>
 <img src="GAMES Box Covers/Ultimate Mortal Kombat 3.smd.jpg"/>
 <img src="GAMES Box Covers/Urban Strike.SMD.jpg"/>
-<img src="GAMES Box Covers/Worms (Europe).png"/>
