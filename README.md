@@ -1,4 +1,4 @@
-# SEGA
+# SEGA GENESIS / MEGADRIVE / MEGADRIVE 2
 
 Sega Games Repository    
 
