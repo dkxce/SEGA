@@ -1,0 +1,11 @@
+Project started on 2010-12-13. Just copy all the .pat files in this pack to your \Patch directory. You will have to rename them to match the ROM. For example if you have Altered Beast (U) ROM loaded then the cheat file must be named Super Altered Beast (USA, Europe).pat. All of my filenames match the No-Intro file set.
+
+If you find any mistakes or have codes you think I should add please email me at admin@mightymo.net.
+
+Special thanks to Tukuyomi for major help in this project.
+
+Most up-to-date version is 2010-12-14, 362 .cht files.
+
+--
+Mo
+httpwww.mightymo.net

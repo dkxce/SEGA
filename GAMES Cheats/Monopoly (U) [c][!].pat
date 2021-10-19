@@ -1,0 +1,5 @@
+9TLT-DGJA	Infinite money (1 of 5)
+B6LT-CRJC	Infinite money (2 of 5)
+96LT-CAAE	Infinite money (3 of 5)
+6TLT-CKAG	Infinite money (4 of 5)
+RELT-C6TJ	Infinite money (5 of 5)
